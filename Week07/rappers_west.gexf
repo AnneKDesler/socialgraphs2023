@@ -1,0 +1,3478 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-09-27">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="coast" type="string" />
+      <attribute id="1" title="content_lenght" type="long" />
+    </attributes>
+    <nodes>
+      <node id="03 Greedo" label="03 Greedo">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2061" />
+        </attvalues>
+      </node>
+      <node id="24kGoldn" label="24kGoldn">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5574" />
+        </attvalues>
+      </node>
+      <node id="40 Glocc" label="40 Glocc">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2811" />
+        </attvalues>
+      </node>
+      <node id="DJ A-Tron" label="DJ A-Tron">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="774" />
+        </attvalues>
+      </node>
+      <node id="Ab-Soul" label="Ab-Soul">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6736" />
+        </attvalues>
+      </node>
+      <node id="Abstract Rude" label="Abstract Rude">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1192" />
+        </attvalues>
+      </node>
+      <node id="Aceyalone" label="Aceyalone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1796" />
+        </attvalues>
+      </node>
+      <node id="Afroman" label="Afroman">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2683" />
+        </attvalues>
+      </node>
+      <node id="Ahmad (rapper)" label="Ahmad (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="983" />
+        </attvalues>
+      </node>
+      <node id="Ak'Sent" label="Ak'Sent">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1385" />
+        </attvalues>
+      </node>
+      <node id="The Alchemist (musician)" label="The Alchemist (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6060" />
+        </attvalues>
+      </node>
+      <node id="AMG (rapper)" label="AMG (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="897" />
+        </attvalues>
+      </node>
+      <node id="Aminé (rapper)" label="Aminé (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3973" />
+        </attvalues>
+      </node>
+      <node id="Antwon" label="Antwon">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2110" />
+        </attvalues>
+      </node>
+      <node id="B-Legit" label="B-Legit">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1584" />
+        </attvalues>
+      </node>
+      <node id="B-Real" label="B-Real">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2280" />
+        </attvalues>
+      </node>
+      <node id="B.G. Knocc Out" label="B.G. Knocc Out">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1105" />
+        </attvalues>
+      </node>
+      <node id="Show Banga" label="Show Banga">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2542" />
+        </attvalues>
+      </node>
+      <node id="Ant Banks" label="Ant Banks">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1423" />
+        </attvalues>
+      </node>
+      <node id="Sho Baraka" label="Sho Baraka">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1367" />
+        </attvalues>
+      </node>
+      <node id="Becky G" label="Becky G">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="24265" />
+        </attvalues>
+      </node>
+      <node id="Beeda Weeda" label="Beeda Weeda">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="Beefy (rapper)" label="Beefy (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1561" />
+        </attvalues>
+      </node>
+      <node id="Berner (rapper)" label="Berner (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2642" />
+        </attvalues>
+      </node>
+      <node id="Big B (rapper)" label="Big B (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="859" />
+        </attvalues>
+      </node>
+      <node id="Big Dave (rapper)" label="Big Dave (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1438" />
+        </attvalues>
+      </node>
+      <node id="Big Ed (rapper)" label="Big Ed (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="669" />
+        </attvalues>
+      </node>
+      <node id="Big Fase 100" label="Big Fase 100">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="503" />
+        </attvalues>
+      </node>
+      <node id="Bizzle" label="Bizzle">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4091" />
+        </attvalues>
+      </node>
+      <node id="Aloe Blacc" label="Aloe Blacc">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4608" />
+        </attvalues>
+      </node>
+      <node id="Guerilla Black" label="Guerilla Black">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="880" />
+        </attvalues>
+      </node>
+      <node id="Nissim Black" label="Nissim Black">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4154" />
+        </attvalues>
+      </node>
+      <node id="Toni Blackman" label="Toni Blackman">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1151" />
+        </attvalues>
+      </node>
+      <node id="Blueface" label="Blueface">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6112" />
+        </attvalues>
+      </node>
+      <node id="Blxst" label="Blxst">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4331" />
+        </attvalues>
+      </node>
+      <node id="Bones (rapper)" label="Bones (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4264" />
+        </attvalues>
+      </node>
+      <node id="Braille (musician)" label="Braille (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1853" />
+        </attvalues>
+      </node>
+      <node id="Buddy (rapper)" label="Buddy (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2332" />
+        </attvalues>
+      </node>
+      <node id="Busdriver" label="Busdriver">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2333" />
+        </attvalues>
+      </node>
+      <node id="Scott Caan" label="Scott Caan">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2197" />
+        </attvalues>
+      </node>
+      <node id="Sway Calloway" label="Sway Calloway">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1674" />
+        </attvalues>
+      </node>
+      <node id="Nick Cannon" label="Nick Cannon">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="8119" />
+        </attvalues>
+      </node>
+      <node id="Captain Save 'Em" label="Captain Save 'Em">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="Clyde Carson" label="Clyde Carson">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2597" />
+        </attvalues>
+      </node>
+      <node id="Celestaphone" label="Celestaphone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="837" />
+        </attvalues>
+      </node>
+      <node id="DJ Cheapshot" label="DJ Cheapshot">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="705" />
+        </attvalues>
+      </node>
+      <node id="Tha Chill" label="Tha Chill">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1356" />
+        </attvalues>
+      </node>
+      <node id="Shawn Chrystopher" label="Shawn Chrystopher">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2283" />
+        </attvalues>
+      </node>
+      <node id="Chanel West Coast" label="Chanel West Coast">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3344" />
+        </attvalues>
+      </node>
+      <node id="Conceit (rapper)" label="Conceit (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="389" />
+        </attvalues>
+      </node>
+      <node id="Coolio" label="Coolio">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="9698" />
+        </attvalues>
+      </node>
+      <node id="Cozz" label="Cozz">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2759" />
+        </attvalues>
+      </node>
+      <node id="Crooked I" label="Crooked I">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5030" />
+        </attvalues>
+      </node>
+      <node id="Omega Crosby" label="Omega Crosby">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="955" />
+        </attvalues>
+      </node>
+      <node id="Cut Chemist" label="Cut Chemist">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1803" />
+        </attvalues>
+      </node>
+      <node id="The D.O.C." label="The D.O.C.">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2891" />
+        </attvalues>
+      </node>
+      <node id="Daddy X" label="Daddy X">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="555" />
+        </attvalues>
+      </node>
+      <node id="DJ Dahi" label="DJ Dahi">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="7363" />
+        </attvalues>
+      </node>
+      <node id="Dazzie Dee" label="Dazzie Dee">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1887" />
+        </attvalues>
+      </node>
+      <node id="DB Tha General" label="DB Tha General">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Del the Funky Homosapien" label="Del the Funky Homosapien">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3247" />
+        </attvalues>
+      </node>
+      <node id="Timothy DeLaGhetto" label="Timothy DeLaGhetto">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2062" />
+        </attvalues>
+      </node>
+      <node id="Demrick" label="Demrick">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1553" />
+        </attvalues>
+      </node>
+      <node id="Scoop DeVille" label="Scoop DeVille">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="755" />
+        </attvalues>
+      </node>
+      <node id="Daz Dillinger" label="Daz Dillinger">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1768" />
+        </attvalues>
+      </node>
+      <node id="Nate Dogg" label="Nate Dogg">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3889" />
+        </attvalues>
+      </node>
+      <node id="Snoop Dogg" label="Snoop Dogg">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="29786" />
+        </attvalues>
+      </node>
+      <node id="Domino (rapper)" label="Domino (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1206" />
+        </attvalues>
+      </node>
+      <node id="Drakeo the Ruler" label="Drakeo the Ruler">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4301" />
+        </attvalues>
+      </node>
+      <node id="Dr. Dre" label="Dr. Dre">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="27910" />
+        </attvalues>
+      </node>
+      <node id="Droop-E" label="Droop-E">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2831" />
+        </attvalues>
+      </node>
+      <node id="Dubb 20" label="Dubb 20">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Dumbfoundead" label="Dumbfoundead">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3164" />
+        </attvalues>
+      </node>
+      <node id="E-40" label="E-40">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6124" />
+        </attvalues>
+      </node>
+      <node id="Eazy-E" label="Eazy-E">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5827" />
+        </attvalues>
+      </node>
+      <node id="MC Eiht" label="MC Eiht">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2334" />
+        </attvalues>
+      </node>
+      <node id="Eprhyme" label="Eprhyme">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1971" />
+        </attvalues>
+      </node>
+      <node id="Evidence (musician)" label="Evidence (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1519" />
+        </attvalues>
+      </node>
+      <node id="Exile (producer)" label="Exile (producer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1396" />
+        </attvalues>
+      </node>
+      <node id="Fashawn" label="Fashawn">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2674" />
+        </attvalues>
+      </node>
+      <node id="Fatlip" label="Fatlip">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1681" />
+        </attvalues>
+      </node>
+      <node id="Joey Fatts" label="Joey Fatts">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1868" />
+        </attvalues>
+      </node>
+      <node id="Kevin Federline" label="Kevin Federline">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5280" />
+        </attvalues>
+      </node>
+      <node id="JT the Bigga Figga" label="JT the Bigga Figga">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2992" />
+        </attvalues>
+      </node>
+      <node id="Flash Bang Grenada" label="Flash Bang Grenada">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="488" />
+        </attvalues>
+      </node>
+      <node id="Flying Lotus" label="Flying Lotus">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5570" />
+        </attvalues>
+      </node>
+      <node id="Shawn Fonteno" label="Shawn Fonteno">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="852" />
+        </attvalues>
+      </node>
+      <node id="Foreknown (rapper)" label="Foreknown (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="538" />
+        </attvalues>
+      </node>
+      <node id="Dave Free" label="Dave Free">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2941" />
+        </attvalues>
+      </node>
+      <node id="Mike Free" label="Mike Free">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1658" />
+        </attvalues>
+      </node>
+      <node id="DJ Fresh (American DJ)" label="DJ Fresh (American DJ)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1499" />
+        </attvalues>
+      </node>
+      <node id="MC Frontalot" label="MC Frontalot">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2201" />
+        </attvalues>
+      </node>
+      <node id="Frost (rapper)" label="Frost (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1332" />
+        </attvalues>
+      </node>
+      <node id="Futuristic (rapper)" label="Futuristic (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3707" />
+        </attvalues>
+      </node>
+      <node id="The Futuristics" label="The Futuristics">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2067" />
+        </attvalues>
+      </node>
+      <node id="G-Nut" label="G-Nut">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="G-Stack" label="G-Stack">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="The Game (rapper)" label="The Game (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="18316" />
+        </attvalues>
+      </node>
+      <node id="GaTa" label="GaTa">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="980" />
+        </attvalues>
+      </node>
+      <node id="O.T. Genasis" label="O.T. Genasis">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1798" />
+        </attvalues>
+      </node>
+      <node id="Domo Genesis" label="Domo Genesis">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1255" />
+        </attvalues>
+      </node>
+      <node id="Gift of Gab (rapper)" label="Gift of Gab (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1832" />
+        </attvalues>
+      </node>
+      <node id="Grieves" label="Grieves">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1539" />
+        </attvalues>
+      </node>
+      <node id="Haiku d'Etat" label="Haiku d'Etat">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="411" />
+        </attvalues>
+      </node>
+      <node id="Hi-C (rapper)" label="Hi-C (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="676" />
+        </attvalues>
+      </node>
+      <node id="Hit-Boy" label="Hit-Boy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="7644" />
+        </attvalues>
+      </node>
+      <node id="Hittman" label="Hittman">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="520" />
+        </attvalues>
+      </node>
+      <node id="Hodgy" label="Hodgy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1099" />
+        </attvalues>
+      </node>
+      <node id="Hopsin" label="Hopsin">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="8169" />
+        </attvalues>
+      </node>
+      <node id="Hot Rod (rapper)" label="Hot Rod (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1270" />
+        </attvalues>
+      </node>
+      <node id="Houston (singer)" label="Houston (singer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1889" />
+        </attvalues>
+      </node>
+      <node id="Brotha Lynch Hung" label="Brotha Lynch Hung">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1540" />
+        </attvalues>
+      </node>
+      <node id="Hurt-M-Badd" label="Hurt-M-Badd">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="550" />
+        </attvalues>
+      </node>
+      <node id="Nipsey Hussle" label="Nipsey Hussle">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="15966" />
+        </attvalues>
+      </node>
+      <node id="Skhye Hutch" label="Skhye Hutch">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1497" />
+        </attvalues>
+      </node>
+      <node id="Iame (rapper)" label="Iame (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="993" />
+        </attvalues>
+      </node>
+      <node id="Iamsu!" label="Iamsu!">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2122" />
+        </attvalues>
+      </node>
+      <node id="Ice Cube" label="Ice Cube">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="10758" />
+        </attvalues>
+      </node>
+      <node id="Ice-T" label="Ice-T">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="14170" />
+        </attvalues>
+      </node>
+      <node id="ILoveMakonnen" label="ILoveMakonnen">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5482" />
+        </attvalues>
+      </node>
+      <node id="The Jacka" label="The Jacka">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1914" />
+        </attvalues>
+      </node>
+      <node id="Jake One" label="Jake One">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1401" />
+        </attvalues>
+      </node>
+      <node id="Noa James" label="Noa James">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1804" />
+        </attvalues>
+      </node>
+      <node id="Jel (music producer)" label="Jel (music producer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1513" />
+        </attvalues>
+      </node>
+      <node id="Jeff Jericho" label="Jeff Jericho">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1236" />
+        </attvalues>
+      </node>
+      <node id="JGivens" label="JGivens">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="923" />
+        </attvalues>
+      </node>
+      <node id="JHawk" label="JHawk">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2660" />
+        </attvalues>
+      </node>
+      <node id="Sir Jinx" label="Sir Jinx">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3611" />
+        </attvalues>
+      </node>
+      <node id="Hobo Johnson" label="Hobo Johnson">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3289" />
+        </attvalues>
+      </node>
+      <node id="Judge Da Boss" label="Judge Da Boss">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="872" />
+        </attvalues>
+      </node>
+      <node id="Self Jupiter" label="Self Jupiter">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1207" />
+        </attvalues>
+      </node>
+      <node id="K-the-I???" label="K-the-I???">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="589" />
+        </attvalues>
+      </node>
+      <node id="Kam (rapper)" label="Kam (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2722" />
+        </attvalues>
+      </node>
+      <node id="Keak da Sneak" label="Keak da Sneak">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1449" />
+        </attvalues>
+      </node>
+      <node id="Baby Keem" label="Baby Keem">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5742" />
+        </attvalues>
+      </node>
+      <node id="Dom Kennedy" label="Dom Kennedy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4223" />
+        </attvalues>
+      </node>
+      <node id="DJ Khalil" label="DJ Khalil">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="570" />
+        </attvalues>
+      </node>
+      <node id="Kid Ink" label="Kid Ink">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2820" />
+        </attvalues>
+      </node>
+      <node id="Killa Keise" label="Killa Keise">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="39" />
+        </attvalues>
+      </node>
+      <node id="DJ King Assassin" label="DJ King Assassin">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3114" />
+        </attvalues>
+      </node>
+      <node id="King Lil G" label="King Lil G">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="449" />
+        </attvalues>
+      </node>
+      <node id="King Tech" label="King Tech">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1693" />
+        </attvalues>
+      </node>
+      <node id="King T" label="King T">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1611" />
+        </attvalues>
+      </node>
+      <node id="Curtiss King" label="Curtiss King">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2015" />
+        </attvalues>
+      </node>
+      <node id="Rydah J. Klyde" label="Rydah J. Klyde">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1099" />
+        </attvalues>
+      </node>
+      <node id="Knightowl" label="Knightowl">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="605" />
+        </attvalues>
+      </node>
+      <node id="Knxwledge" label="Knxwledge">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2199" />
+        </attvalues>
+      </node>
+      <node id="Kokane" label="Kokane">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1247" />
+        </attvalues>
+      </node>
+      <node id="Kossisko" label="Kossisko">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3223" />
+        </attvalues>
+      </node>
+      <node id="Kreayshawn" label="Kreayshawn">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4321" />
+        </attvalues>
+      </node>
+      <node id="Krondon" label="Krondon">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1281" />
+        </attvalues>
+      </node>
+      <node id="Kurupt" label="Kurupt">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3801" />
+        </attvalues>
+      </node>
+      <node id="Kyle (musician)" label="Kyle (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1944" />
+        </attvalues>
+      </node>
+      <node id="Kendrick Lamar" label="Kendrick Lamar">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="40430" />
+        </attvalues>
+      </node>
+      <node id="Bishop Lamont" label="Bishop Lamont">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1361" />
+        </attvalues>
+      </node>
+      <node id="MC Lars" label="MC Lars">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2592" />
+        </attvalues>
+      </node>
+      <node id="Lecrae" label="Lecrae">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="12973" />
+        </attvalues>
+      </node>
+      <node id="Lefty (rapper)" label="Lefty (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="929" />
+        </attvalues>
+      </node>
+      <node id="Shorty (American rapper)" label="Shorty (American rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2052" />
+        </attvalues>
+      </node>
+      <node id="Lil B" label="Lil B">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6326" />
+        </attvalues>
+      </node>
+      <node id="Lil Debbie" label="Lil Debbie">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1397" />
+        </attvalues>
+      </node>
+      <node id="Lil Italy" label="Lil Italy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="675" />
+        </attvalues>
+      </node>
+      <node id="Lil Ric" label="Lil Ric">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="796" />
+        </attvalues>
+      </node>
+      <node id="Lil Rob" label="Lil Rob">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1005" />
+        </attvalues>
+      </node>
+      <node id="Lil Xan" label="Lil Xan">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4723" />
+        </attvalues>
+      </node>
+      <node id="Lil' C-Style" label="Lil' C-Style">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="Locksmith (rapper)" label="Locksmith (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2303" />
+        </attvalues>
+      </node>
+      <node id="LoveRance" label="LoveRance">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="742" />
+        </attvalues>
+      </node>
+      <node id="Luni Coleone" label="Luni Coleone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1320" />
+        </attvalues>
+      </node>
+      <node id="Mac Dre" label="Mac Dre">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2538" />
+        </attvalues>
+      </node>
+      <node id="CJ Mac" label="CJ Mac">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="518" />
+        </attvalues>
+      </node>
+      <node id="Mack 10" label="Mack 10">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1079" />
+        </attvalues>
+      </node>
+      <node id="Macklemore" label="Macklemore">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6968" />
+        </attvalues>
+      </node>
+      <node id="Madlib" label="Madlib">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3888" />
+        </attvalues>
+      </node>
+      <node id="Mac Mall" label="Mac Mall">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1493" />
+        </attvalues>
+      </node>
+      <node id="Glasses Malone" label="Glasses Malone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1521" />
+        </attvalues>
+      </node>
+      <node id="Mann (rapper)" label="Mann (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1294" />
+        </attvalues>
+      </node>
+      <node id="Mayne Mannish" label="Mayne Mannish">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="609" />
+        </attvalues>
+      </node>
+      <node id="Terrace Martin" label="Terrace Martin">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1965" />
+        </attvalues>
+      </node>
+      <node id="Young Maylay" label="Young Maylay">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1628" />
+        </attvalues>
+      </node>
+      <node id="Trevor McFedries" label="Trevor McFedries">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3771" />
+        </attvalues>
+      </node>
+      <node id="Mr. J. Medeiros" label="Mr. J. Medeiros">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4371" />
+        </attvalues>
+      </node>
+      <node id="Eli Meltzer" label="Eli Meltzer">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1350" />
+        </attvalues>
+      </node>
+      <node id="Messy Marv" label="Messy Marv">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2436" />
+        </attvalues>
+      </node>
+      <node id="Cymphonique Miller" label="Cymphonique Miller">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2147" />
+        </attvalues>
+      </node>
+      <node id="Mistah F.A.B." label="Mistah F.A.B.">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3010" />
+        </attvalues>
+      </node>
+      <node id="Mix Master Mike" label="Mix Master Mike">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1651" />
+        </attvalues>
+      </node>
+      <node id="Slim the Mobster" label="Slim the Mobster">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1219" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Moore (musician)" label="Jonathan Moore (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1839" />
+        </attvalues>
+      </node>
+      <node id="Lil Mosey" label="Lil Mosey">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="9350" />
+        </attvalues>
+      </node>
+      <node id="Mr. Capone-E" label="Mr. Capone-E">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="5048" />
+        </attvalues>
+      </node>
+      <node id="Mr. Skrillz" label="Mr. Skrillz">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Mugzi" label="Mugzi">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="37" />
+        </attvalues>
+      </node>
+      <node id="Murs (rapper)" label="Murs (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2526" />
+        </attvalues>
+      </node>
+      <node id="Myka 9" label="Myka 9">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2234" />
+        </attvalues>
+      </node>
+      <node id="Emcee N.I.C.E." label="Emcee N.I.C.E.">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="8180" />
+        </attvalues>
+      </node>
+      <node id="Shady Nate" label="Shady Nate">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1500" />
+        </attvalues>
+      </node>
+      <node id="Damani Nkosi" label="Damani Nkosi">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1540" />
+        </attvalues>
+      </node>
+      <node id="Nobody (producer)" label="Nobody (producer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1785" />
+        </attvalues>
+      </node>
+      <node id="Nocando" label="Nocando">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2087" />
+        </attvalues>
+      </node>
+      <node id="Cool Nutz" label="Cool Nutz">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1261" />
+        </attvalues>
+      </node>
+      <node id="O.Y.G Redrum 781" label="O.Y.G Redrum 781">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1207" />
+        </attvalues>
+      </node>
+      <node id="Oh No (musician)" label="Oh No (musician)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1872" />
+        </attvalues>
+      </node>
+      <node id="OhGeesy" label="OhGeesy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="887" />
+        </attvalues>
+      </node>
+      <node id="Only Won" label="Only Won">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2535" />
+        </attvalues>
+      </node>
+      <node id="Paris (rapper)" label="Paris (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2848" />
+        </attvalues>
+      </node>
+      <node id="Jay Park" label="Jay Park">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="26476" />
+        </attvalues>
+      </node>
+      <node id="Passion (rapper)" label="Passion (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="461" />
+        </attvalues>
+      </node>
+      <node id="Peace (rapper)" label="Peace (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="925" />
+        </attvalues>
+      </node>
+      <node id="J Peezy" label="J Peezy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1254" />
+        </attvalues>
+      </node>
+      <node id="Dudley Perkins (rapper)" label="Dudley Perkins (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1199" />
+        </attvalues>
+      </node>
+      <node id="Phil Da Agony" label="Phil Da Agony">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Playalitical" label="Playalitical">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1545" />
+        </attvalues>
+      </node>
+      <node id="Pooh-Man" label="Pooh-Man">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="589" />
+        </attvalues>
+      </node>
+      <node id="Problem (rapper)" label="Problem (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1639" />
+        </attvalues>
+      </node>
+      <node id="Psychosiz" label="Psychosiz">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="755" />
+        </attvalues>
+      </node>
+      <node id="Punch (rapper)" label="Punch (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3141" />
+        </attvalues>
+      </node>
+      <node id="Schoolboy Q" label="Schoolboy Q">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="9289" />
+        </attvalues>
+      </node>
+      <node id="Quazedelic" label="Quazedelic">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1451" />
+        </attvalues>
+      </node>
+      <node id="DJ Quik" label="DJ Quik">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4476" />
+        </attvalues>
+      </node>
+      <node id="San Quinn" label="San Quinn">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1088" />
+        </attvalues>
+      </node>
+      <node id="Captain Rapp" label="Captain Rapp">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="834" />
+        </attvalues>
+      </node>
+      <node id="Rappin' 4-Tay" label="Rappin' 4-Tay">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1681" />
+        </attvalues>
+      </node>
+      <node id="Ras Kass" label="Ras Kass">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3215" />
+        </attvalues>
+      </node>
+      <node id="RBX" label="RBX">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2227" />
+        </attvalues>
+      </node>
+      <node id="Reason (American rapper)" label="Reason (American rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1886" />
+        </attvalues>
+      </node>
+      <node id="Red Cloud (rapper)" label="Red Cloud (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2408" />
+        </attvalues>
+      </node>
+      <node id="Redfoo" label="Redfoo">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4547" />
+        </attvalues>
+      </node>
+      <node id="The Real Richie Rich" label="The Real Richie Rich">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2907" />
+        </attvalues>
+      </node>
+      <node id="Boots Riley" label="Boots Riley">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4532" />
+        </attvalues>
+      </node>
+      <node id="Ash Riser" label="Ash Riser">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3469" />
+        </attvalues>
+      </node>
+      <node id="RJ (rapper)" label="RJ (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2223" />
+        </attvalues>
+      </node>
+      <node id="Jay Rock" label="Jay Rock">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3556" />
+        </attvalues>
+      </node>
+      <node id="V. Rose" label="V. Rose">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1580" />
+        </attvalues>
+      </node>
+      <node id="Sadistik" label="Sadistik">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="909" />
+        </attvalues>
+      </node>
+      <node id="Sage the Gemini" label="Sage the Gemini">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1710" />
+        </attvalues>
+      </node>
+      <node id="Saweetie" label="Saweetie">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6141" />
+        </attvalues>
+      </node>
+      <node id="Seagram (rapper)" label="Seagram (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="777" />
+        </attvalues>
+      </node>
+      <node id="Amanda Seales" label="Amanda Seales">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4134" />
+        </attvalues>
+      </node>
+      <node id="Tupac Shakur" label="Tupac Shakur">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="26855" />
+        </attvalues>
+      </node>
+      <node id="Mac Shawn" label="Mac Shawn">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="Shade Sheist" label="Shade Sheist">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2084" />
+        </attvalues>
+      </node>
+      <node id="Mike Shinoda" label="Mike Shinoda">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="12351" />
+        </attvalues>
+      </node>
+      <node id="Too Short" label="Too Short">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2506" />
+        </attvalues>
+      </node>
+      <node id="Shorty Mack" label="Shorty Mack">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="666" />
+        </attvalues>
+      </node>
+      <node id="Shwayze" label="Shwayze">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2196" />
+        </attvalues>
+      </node>
+      <node id="Dom Sicily" label="Dom Sicily">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="775" />
+        </attvalues>
+      </node>
+      <node id="Raz Simone" label="Raz Simone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1952" />
+        </attvalues>
+      </node>
+      <node id="Sir Mix-a-Lot" label="Sir Mix-a-Lot">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3482" />
+        </attvalues>
+      </node>
+      <node id="Skee-Lo" label="Skee-Lo">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2070" />
+        </attvalues>
+      </node>
+      <node id="Skeme" label="Skeme">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4363" />
+        </attvalues>
+      </node>
+      <node id="Skinhead Rob" label="Skinhead Rob">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="894" />
+        </attvalues>
+      </node>
+      <node id="Sky Blu (rapper)" label="Sky Blu (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2158" />
+        </attvalues>
+      </node>
+      <node id="Sleep (rapper)" label="Sleep (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1646" />
+        </attvalues>
+      </node>
+      <node id="Sleep Dank" label="Sleep Dank">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="408" />
+        </attvalues>
+      </node>
+      <node id="Mitchy Slick" label="Mitchy Slick">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1006" />
+        </attvalues>
+      </node>
+      <node id="Slimkid3" label="Slimkid3">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1084" />
+        </attvalues>
+      </node>
+      <node id="Slip Capone" label="Slip Capone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="740" />
+        </attvalues>
+      </node>
+      <node id="Slow Pain" label="Slow Pain">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="682" />
+        </attvalues>
+      </node>
+      <node id="Na-Kel Smith" label="Na-Kel Smith">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1576" />
+        </attvalues>
+      </node>
+      <node id="D Smoke" label="D Smoke">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1614" />
+        </attvalues>
+      </node>
+      <node id="Smooth (singer)" label="Smooth (singer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2694" />
+        </attvalues>
+      </node>
+      <node id="Snow Tha Product" label="Snow Tha Product">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4542" />
+        </attvalues>
+      </node>
+      <node id="Soopafly" label="Soopafly">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="780" />
+        </attvalues>
+      </node>
+      <node id="Sounwave" label="Sounwave">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3919" />
+        </attvalues>
+      </node>
+      <node id="Speak!" label="Speak!">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="484" />
+        </attvalues>
+      </node>
+      <node id="Spice 1" label="Spice 1">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="915" />
+        </attvalues>
+      </node>
+      <node id="Spider Loc" label="Spider Loc">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1940" />
+        </attvalues>
+      </node>
+      <node id="Vince Staples" label="Vince Staples">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4957" />
+        </attvalues>
+      </node>
+      <node id="Parlay Starr" label="Parlay Starr">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="806" />
+        </attvalues>
+      </node>
+      <node id="Rob Stone (rapper)" label="Rob Stone (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1373" />
+        </attvalues>
+      </node>
+      <node id="Stressmatic" label="Stressmatic">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </node>
+      <node id="Suga Free" label="Suga Free">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1697" />
+        </attvalues>
+      </node>
+      <node id="Suga-T" label="Suga-T">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="856" />
+        </attvalues>
+      </node>
+      <node id="Earl Sweatshirt" label="Earl Sweatshirt">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="7180" />
+        </attvalues>
+      </node>
+      <node id="Syd (singer)" label="Syd (singer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3019" />
+        </attvalues>
+      </node>
+      <node id="Big Syke" label="Big Syke">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1475" />
+        </attvalues>
+      </node>
+      <node id="Taboo (rapper)" label="Taboo (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3209" />
+        </attvalues>
+      </node>
+      <node id="Tairrie B" label="Tairrie B">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1277" />
+        </attvalues>
+      </node>
+      <node id="Tanna Leone" label="Tanna Leone">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2054" />
+        </attvalues>
+      </node>
+      <node id="Tedashii" label="Tedashii">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1293" />
+        </attvalues>
+      </node>
+      <node id="TeeFlii" label="TeeFlii">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3173" />
+        </attvalues>
+      </node>
+      <node id="Thurz" label="Thurz">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1202" />
+        </attvalues>
+      </node>
+      <node id="Tiger JK" label="Tiger JK">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3562" />
+        </attvalues>
+      </node>
+      <node id="Time (rapper)" label="Time (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1388" />
+        </attvalues>
+      </node>
+      <node id="Ms. Toi" label="Ms. Toi">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="944" />
+        </attvalues>
+      </node>
+      <node id="Tone Loc" label="Tone Loc">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4676" />
+        </attvalues>
+      </node>
+      <node id="Isaiah Toothtaker" label="Isaiah Toothtaker">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1586" />
+        </attvalues>
+      </node>
+      <node id="Channel Tres" label="Channel Tres">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2013" />
+        </attvalues>
+      </node>
+      <node id="MC Trouble" label="MC Trouble">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="748" />
+        </attvalues>
+      </node>
+      <node id="Ty Dolla Sign" label="Ty Dolla Sign">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="7271" />
+        </attvalues>
+      </node>
+      <node id="Tyler, the Creator" label="Tyler, the Creator">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="17868" />
+        </attvalues>
+      </node>
+      <node id="The Unknown DJ" label="The Unknown DJ">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1132" />
+        </attvalues>
+      </node>
+      <node id="V-Nasty" label="V-Nasty">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3069" />
+        </attvalues>
+      </node>
+      <node id="V-White" label="V-White">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="Casey Veggies" label="Casey Veggies">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1217" />
+        </attvalues>
+      </node>
+      <node id="Bryce Vine" label="Bryce Vine">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2453" />
+        </attvalues>
+      </node>
+      <node id="Warren G" label="Warren G">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6015" />
+        </attvalues>
+      </node>
+      <node id="WC (rapper)" label="WC (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="992" />
+        </attvalues>
+      </node>
+      <node id="Willie B (producer)" label="Willie B (producer)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1479" />
+        </attvalues>
+      </node>
+      <node id="Dizzy Wright" label="Dizzy Wright">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="3989" />
+        </attvalues>
+      </node>
+      <node id="Xzibit" label="Xzibit">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="4847" />
+        </attvalues>
+      </node>
+      <node id="Ya Boy" label="Ya Boy">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="872" />
+        </attvalues>
+      </node>
+      <node id="YG (rapper)" label="YG (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="6500" />
+        </attvalues>
+      </node>
+      <node id="YGD Tha Top Dogg" label="YGD Tha Top Dogg">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="856" />
+        </attvalues>
+      </node>
+      <node id="Yo-Yo (rapper)" label="Yo-Yo (rapper)">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="2170" />
+        </attvalues>
+      </node>
+      <node id="Yukmouth" label="Yukmouth">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1381" />
+        </attvalues>
+      </node>
+      <node id="Zealous1" label="Zealous1">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="855" />
+        </attvalues>
+      </node>
+      <node id="Asaiah Ziv" label="Asaiah Ziv">
+        <attvalues>
+          <attvalue for="0" value="West" />
+          <attvalue for="1" value="1532" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="03 Greedo" target="Mike Free" id="0" />
+      <edge source="24kGoldn" target="Ty Dolla Sign" id="1" />
+      <edge source="40 Glocc" target="Ras Kass" id="2" />
+      <edge source="40 Glocc" target="Kurupt" id="3" />
+      <edge source="40 Glocc" target="Dr. Dre" id="4" />
+      <edge source="40 Glocc" target="The Alchemist (musician)" id="5" />
+      <edge source="DJ A-Tron" target="Nipsey Hussle" id="6" />
+      <edge source="DJ A-Tron" target="TeeFlii" id="7" />
+      <edge source="Ab-Soul" target="Jay Rock" id="8" />
+      <edge source="Ab-Soul" target="Kendrick Lamar" id="9" />
+      <edge source="Ab-Soul" target="Schoolboy Q" id="10" />
+      <edge source="Ab-Soul" target="Punch (rapper)" id="11" />
+      <edge source="Ab-Soul" target="Murs (rapper)" id="12" />
+      <edge source="Ab-Soul" target="Willie B (producer)" id="13" />
+      <edge source="Ab-Soul" target="Sway Calloway" id="14" />
+      <edge source="Ab-Soul" target="Macklemore" id="15" />
+      <edge source="Ab-Soul" target="Nipsey Hussle" id="16" />
+      <edge source="Ab-Soul" target="The Alchemist (musician)" id="17" />
+      <edge source="Abstract Rude" target="Haiku d'Etat" id="18" />
+      <edge source="Abstract Rude" target="Myka 9" id="19" />
+      <edge source="Abstract Rude" target="Aceyalone" id="20" />
+      <edge source="Abstract Rude" target="Busdriver" id="21" />
+      <edge source="Abstract Rude" target="Nobody (producer)" id="22" />
+      <edge source="Abstract Rude" target="Peace (rapper)" id="23" />
+      <edge source="Abstract Rude" target="Sleep (rapper)" id="24" />
+      <edge source="Abstract Rude" target="Self Jupiter" id="25" />
+      <edge source="Abstract Rude" target="Oh No (musician)" id="26" />
+      <edge source="Aceyalone" target="Haiku d'Etat" id="27" />
+      <edge source="Aceyalone" target="Myka 9" id="28" />
+      <edge source="Aceyalone" target="Abstract Rude" id="29" />
+      <edge source="Aceyalone" target="Evidence (musician)" id="30" />
+      <edge source="Aceyalone" target="Self Jupiter" id="31" />
+      <edge source="Ak'Sent" target="DJ Quik" id="32" />
+      <edge source="Ak'Sent" target="Hopsin" id="33" />
+      <edge source="The Alchemist (musician)" target="Scott Caan" id="34" />
+      <edge source="The Alchemist (musician)" target="Oh No (musician)" id="35" />
+      <edge source="The Alchemist (musician)" target="Evidence (musician)" id="36" />
+      <edge source="The Alchemist (musician)" target="B-Real" id="37" />
+      <edge source="The Alchemist (musician)" target="Snoop Dogg" id="38" />
+      <edge source="The Alchemist (musician)" target="Ras Kass" id="39" />
+      <edge source="The Alchemist (musician)" target="Fashawn" id="40" />
+      <edge source="The Alchemist (musician)" target="Domo Genesis" id="41" />
+      <edge source="The Alchemist (musician)" target="Earl Sweatshirt" id="42" />
+      <edge source="The Alchemist (musician)" target="Schoolboy Q" id="43" />
+      <edge source="The Alchemist (musician)" target="Hit-Boy" id="44" />
+      <edge source="The Alchemist (musician)" target="MC Eiht" id="45" />
+      <edge source="The Alchemist (musician)" target="Spice 1" id="46" />
+      <edge source="The Alchemist (musician)" target="Vince Staples" id="47" />
+      <edge source="AMG (rapper)" target="DJ Quik" id="48" />
+      <edge source="Antwon" target="Isaiah Toothtaker" id="49" />
+      <edge source="B-Legit" target="Tupac Shakur" id="50" />
+      <edge source="B-Legit" target="Too Short" id="51" />
+      <edge source="B-Legit" target="Snoop Dogg" id="52" />
+      <edge source="B-Legit" target="Daz Dillinger" id="53" />
+      <edge source="B-Legit" target="Kurupt" id="54" />
+      <edge source="B-Legit" target="Mack 10" id="55" />
+      <edge source="B-Legit" target="Mac Dre" id="56" />
+      <edge source="B-Legit" target="E-40" id="57" />
+      <edge source="B-Legit" target="Mac Shawn" id="58" />
+      <edge source="B-Legit" target="Yukmouth" id="59" />
+      <edge source="B-Legit" target="Stressmatic" id="60" />
+      <edge source="B-Legit" target="Shady Nate" id="61" />
+      <edge source="B-Legit" target="Afroman" id="62" />
+      <edge source="B-Real" target="Berner (rapper)" id="63" />
+      <edge source="B-Real" target="Snoop Dogg" id="64" />
+      <edge source="B.G. Knocc Out" target="Eazy-E" id="65" />
+      <edge source="B.G. Knocc Out" target="Glasses Malone" id="66" />
+      <edge source="B.G. Knocc Out" target="MC Eiht" id="67" />
+      <edge source="Show Banga" target="E-40" id="68" />
+      <edge source="Show Banga" target="Iamsu!" id="69" />
+      <edge source="Show Banga" target="Sage the Gemini" id="70" />
+      <edge source="Show Banga" target="Clyde Carson" id="71" />
+      <edge source="Show Banga" target="San Quinn" id="72" />
+      <edge source="Show Banga" target="YG (rapper)" id="73" />
+      <edge source="Ant Banks" target="E-40" id="74" />
+      <edge source="Ant Banks" target="Mac Dre" id="75" />
+      <edge source="Ant Banks" target="MC Eiht" id="76" />
+      <edge source="Ant Banks" target="Pooh-Man" id="77" />
+      <edge source="Ant Banks" target="Spice 1" id="78" />
+      <edge source="Ant Banks" target="Too Short" id="79" />
+      <edge source="Ant Banks" target="Snoop Dogg" id="80" />
+      <edge source="Ant Banks" target="Rappin' 4-Tay" id="81" />
+      <edge source="Ant Banks" target="Mac Mall" id="82" />
+      <edge source="Ant Banks" target="Mack 10" id="83" />
+      <edge source="Ant Banks" target="WC (rapper)" id="84" />
+      <edge source="Ant Banks" target="B-Legit" id="85" />
+      <edge source="Ant Banks" target="CJ Mac" id="86" />
+      <edge source="Ant Banks" target="Captain Save 'Em" id="87" />
+      <edge source="Ant Banks" target="King T" id="88" />
+      <edge source="Ant Banks" target="V-White" id="89" />
+      <edge source="Sho Baraka" target="Lecrae" id="90" />
+      <edge source="Sho Baraka" target="Tedashii" id="91" />
+      <edge source="Becky G" target="Saweetie" id="92" />
+      <edge source="Becky G" target="Snoop Dogg" id="93" />
+      <edge source="Beefy (rapper)" target="MC Frontalot" id="94" />
+      <edge source="Beefy (rapper)" target="MC Lars" id="95" />
+      <edge source="Berner (rapper)" target="B-Real" id="96" />
+      <edge source="Berner (rapper)" target="The Jacka" id="97" />
+      <edge source="Berner (rapper)" target="San Quinn" id="98" />
+      <edge source="Berner (rapper)" target="Iamsu!" id="99" />
+      <edge source="Berner (rapper)" target="Rydah J. Klyde" id="100" />
+      <edge source="Berner (rapper)" target="Messy Marv" id="101" />
+      <edge source="Big B (rapper)" target="Daddy X" id="102" />
+      <edge source="Big B (rapper)" target="Ice-T" id="103" />
+      <edge source="Big Dave (rapper)" target="Ice Cube" id="104" />
+      <edge source="Big Dave (rapper)" target="Xzibit" id="105" />
+      <edge source="Big Dave (rapper)" target="Kurupt" id="106" />
+      <edge source="Big Dave (rapper)" target="Snoop Dogg" id="107" />
+      <edge source="Big Dave (rapper)" target="WC (rapper)" id="108" />
+      <edge source="Big Ed (rapper)" target="Snoop Dogg" id="109" />
+      <edge source="Big Fase 100" target="The Game (rapper)" id="110" />
+      <edge source="Big Fase 100" target="JT the Bigga Figga" id="111" />
+      <edge source="Bizzle" target="Macklemore" id="112" />
+      <edge source="Bizzle" target="Tupac Shakur" id="113" />
+      <edge source="Bizzle" target="Lecrae" id="114" />
+      <edge source="Aloe Blacc" target="DJ Khalil" id="115" />
+      <edge source="Aloe Blacc" target="Fashawn" id="116" />
+      <edge source="Aloe Blacc" target="Exile (producer)" id="117" />
+      <edge source="Aloe Blacc" target="Mike Shinoda" id="118" />
+      <edge source="Guerilla Black" target="Daz Dillinger" id="119" />
+      <edge source="Guerilla Black" target="Shorty Mack" id="120" />
+      <edge source="Nissim Black" target="Jake One" id="121" />
+      <edge source="Blueface" target="YG (rapper)" id="122" />
+      <edge source="Blueface" target="The Game (rapper)" id="123" />
+      <edge source="Blueface" target="Snoop Dogg" id="124" />
+      <edge source="Blueface" target="E-40" id="125" />
+      <edge source="Blueface" target="Suga Free" id="126" />
+      <edge source="Blxst" target="Ty Dolla Sign" id="127" />
+      <edge source="Blxst" target="Kendrick Lamar" id="128" />
+      <edge source="Blxst" target="YG (rapper)" id="129" />
+      <edge source="Blxst" target="Problem (rapper)" id="130" />
+      <edge source="Blxst" target="Dom Kennedy" id="131" />
+      <edge source="Blxst" target="Drakeo the Ruler" id="132" />
+      <edge source="Blxst" target="Nate Dogg" id="133" />
+      <edge source="Blxst" target="Blueface" id="134" />
+      <edge source="Blxst" target="Buddy (rapper)" id="135" />
+      <edge source="Blxst" target="Snoop Dogg" id="136" />
+      <edge source="Blxst" target="Joey Fatts" id="137" />
+      <edge source="Blxst" target="E-40" id="138" />
+      <edge source="Blxst" target="Casey Veggies" id="139" />
+      <edge source="Buddy (rapper)" target="Nipsey Hussle" id="140" />
+      <edge source="Buddy (rapper)" target="Snoop Dogg" id="141" />
+      <edge source="Buddy (rapper)" target="Kendrick Lamar" id="142" />
+      <edge source="Buddy (rapper)" target="DJ Khalil" id="143" />
+      <edge source="Buddy (rapper)" target="Ty Dolla Sign" id="144" />
+      <edge source="Buddy (rapper)" target="DJ Quik" id="145" />
+      <edge source="Buddy (rapper)" target="Problem (rapper)" id="146" />
+      <edge source="Buddy (rapper)" target="Cozz" id="147" />
+      <edge source="Buddy (rapper)" target="Terrace Martin" id="148" />
+      <edge source="Busdriver" target="Nocando" id="149" />
+      <edge source="Busdriver" target="Nobody (producer)" id="150" />
+      <edge source="Busdriver" target="Myka 9" id="151" />
+      <edge source="Busdriver" target="Flash Bang Grenada" id="152" />
+      <edge source="Busdriver" target="Flying Lotus" id="153" />
+      <edge source="Busdriver" target="Haiku d'Etat" id="154" />
+      <edge source="Busdriver" target="K-the-I???" id="155" />
+      <edge source="Busdriver" target="Abstract Rude" id="156" />
+      <edge source="Scott Caan" target="The Alchemist (musician)" id="157" />
+      <edge source="Scott Caan" target="Evidence (musician)" id="158" />
+      <edge source="Sway Calloway" target="King Tech" id="159" />
+      <edge source="Sway Calloway" target="Ras Kass" id="160" />
+      <edge source="Sway Calloway" target="Xzibit" id="161" />
+      <edge source="Clyde Carson" target="The Game (rapper)" id="162" />
+      <edge source="Clyde Carson" target="Keak da Sneak" id="163" />
+      <edge source="Clyde Carson" target="E-40" id="164" />
+      <edge source="Clyde Carson" target="Dom Kennedy" id="165" />
+      <edge source="Clyde Carson" target="Iamsu!" id="166" />
+      <edge source="Clyde Carson" target="Problem (rapper)" id="167" />
+      <edge source="Clyde Carson" target="B-Legit" id="168" />
+      <edge source="Clyde Carson" target="Ya Boy" id="169" />
+      <edge source="Clyde Carson" target="Too Short" id="170" />
+      <edge source="DJ Cheapshot" target="Mike Shinoda" id="171" />
+      <edge source="Tha Chill" target="MC Eiht" id="172" />
+      <edge source="Tha Chill" target="Kurupt" id="173" />
+      <edge source="Tha Chill" target="Kokane" id="174" />
+      <edge source="Tha Chill" target="RBX" id="175" />
+      <edge source="Tha Chill" target="King T" id="176" />
+      <edge source="Tha Chill" target="Sir Jinx" id="177" />
+      <edge source="Shawn Chrystopher" target="Buddy (rapper)" id="178" />
+      <edge source="Shawn Chrystopher" target="Mann (rapper)" id="179" />
+      <edge source="Shawn Chrystopher" target="Dom Kennedy" id="180" />
+      <edge source="Chanel West Coast" target="Snoop Dogg" id="181" />
+      <edge source="Chanel West Coast" target="YG (rapper)" id="182" />
+      <edge source="Chanel West Coast" target="Tupac Shakur" id="183" />
+      <edge source="Chanel West Coast" target="B-Real" id="184" />
+      <edge source="Chanel West Coast" target="Too Short" id="185" />
+      <edge source="Conceit (rapper)" target="Fatlip" id="186" />
+      <edge source="Coolio" target="WC (rapper)" id="187" />
+      <edge source="Coolio" target="B-Real" id="188" />
+      <edge source="Coolio" target="Snoop Dogg" id="189" />
+      <edge source="Coolio" target="Yo-Yo (rapper)" id="190" />
+      <edge source="Cozz" target="YG (rapper)" id="191" />
+      <edge source="Cozz" target="Kendrick Lamar" id="192" />
+      <edge source="Cozz" target="Reason (American rapper)" id="193" />
+      <edge source="Cozz" target="Buddy (rapper)" id="194" />
+      <edge source="Crooked I" target="Snoop Dogg" id="195" />
+      <edge source="Crooked I" target="Daz Dillinger" id="196" />
+      <edge source="Crooked I" target="Dr. Dre" id="197" />
+      <edge source="Crooked I" target="The Alchemist (musician)" id="198" />
+      <edge source="Crooked I" target="DJ Khalil" id="199" />
+      <edge source="Crooked I" target="Too Short" id="200" />
+      <edge source="Crooked I" target="Kurupt" id="201" />
+      <edge source="Crooked I" target="Jay Rock" id="202" />
+      <edge source="Crooked I" target="Glasses Malone" id="203" />
+      <edge source="Crooked I" target="Mistah F.A.B." id="204" />
+      <edge source="Crooked I" target="Kokane" id="205" />
+      <edge source="Omega Crosby" target="Clyde Carson" id="206" />
+      <edge source="Omega Crosby" target="Mayne Mannish" id="207" />
+      <edge source="Cut Chemist" target="Myka 9" id="208" />
+      <edge source="The D.O.C." target="Dr. Dre" id="209" />
+      <edge source="The D.O.C." target="Eazy-E" id="210" />
+      <edge source="The D.O.C." target="Snoop Dogg" id="211" />
+      <edge source="The D.O.C." target="Ice Cube" id="212" />
+      <edge source="DJ Dahi" target="Dom Kennedy" id="213" />
+      <edge source="DJ Dahi" target="Kendrick Lamar" id="214" />
+      <edge source="DJ Dahi" target="Vince Staples" id="215" />
+      <edge source="DJ Dahi" target="Dr. Dre" id="216" />
+      <edge source="DJ Dahi" target="Baby Keem" id="217" />
+      <edge source="DJ Dahi" target="Schoolboy Q" id="218" />
+      <edge source="DJ Dahi" target="Fashawn" id="219" />
+      <edge source="DJ Dahi" target="Tyler, the Creator" id="220" />
+      <edge source="DJ Dahi" target="E-40" id="221" />
+      <edge source="DJ Dahi" target="Ty Dolla Sign" id="222" />
+      <edge source="DJ Dahi" target="Problem (rapper)" id="223" />
+      <edge source="DJ Dahi" target="Jay Rock" id="224" />
+      <edge source="DJ Dahi" target="Kurupt" id="225" />
+      <edge source="DJ Dahi" target="Skeme" id="226" />
+      <edge source="DJ Dahi" target="Casey Veggies" id="227" />
+      <edge source="DJ Dahi" target="Nipsey Hussle" id="228" />
+      <edge source="DJ Dahi" target="Ab-Soul" id="229" />
+      <edge source="DJ Dahi" target="Curtiss King" id="230" />
+      <edge source="DJ Dahi" target="DJ Khalil" id="231" />
+      <edge source="DJ Dahi" target="Glasses Malone" id="232" />
+      <edge source="DJ Dahi" target="Kid Ink" id="233" />
+      <edge source="DJ Dahi" target="Sounwave" id="234" />
+      <edge source="DJ Dahi" target="Terrace Martin" id="235" />
+      <edge source="DJ Dahi" target="Lecrae" id="236" />
+      <edge source="DJ Dahi" target="Kyle (musician)" id="237" />
+      <edge source="DJ Dahi" target="Jake One" id="238" />
+      <edge source="DJ Dahi" target="Hit-Boy" id="239" />
+      <edge source="DJ Dahi" target="Blxst" id="240" />
+      <edge source="Dazzie Dee" target="Ice Cube" id="241" />
+      <edge source="Dazzie Dee" target="Dr. Dre" id="242" />
+      <edge source="Dazzie Dee" target="Sir Jinx" id="243" />
+      <edge source="Dazzie Dee" target="Coolio" id="244" />
+      <edge source="Dazzie Dee" target="Shade Sheist" id="245" />
+      <edge source="Dazzie Dee" target="Tha Chill" id="246" />
+      <edge source="Dazzie Dee" target="Yo-Yo (rapper)" id="247" />
+      <edge source="Dazzie Dee" target="Suga Free" id="248" />
+      <edge source="Dazzie Dee" target="DJ Quik" id="249" />
+      <edge source="Dazzie Dee" target="Spice 1" id="250" />
+      <edge source="Dazzie Dee" target="MC Eiht" id="251" />
+      <edge source="Del the Funky Homosapien" target="Ice Cube" id="252" />
+      <edge source="Del the Funky Homosapien" target="Murs (rapper)" id="253" />
+      <edge source="Del the Funky Homosapien" target="Fashawn" id="254" />
+      <edge source="Del the Funky Homosapien" target="Sleep (rapper)" id="255" />
+      <edge source="Del the Funky Homosapien" target="Gift of Gab (rapper)" id="256" />
+      <edge source="Timothy DeLaGhetto" target="Dumbfoundead" id="257" />
+      <edge source="Timothy DeLaGhetto" target="Nick Cannon" id="258" />
+      <edge source="Demrick" target="B-Real" id="259" />
+      <edge source="Demrick" target="Kurupt" id="260" />
+      <edge source="Demrick" target="Xzibit" id="261" />
+      <edge source="Demrick" target="Dizzy Wright" id="262" />
+      <edge source="Demrick" target="Snoop Dogg" id="263" />
+      <edge source="Demrick" target="Scoop DeVille" id="264" />
+      <edge source="Demrick" target="The Game (rapper)" id="265" />
+      <edge source="Demrick" target="Crooked I" id="266" />
+      <edge source="Demrick" target="Slim the Mobster" id="267" />
+      <edge source="Demrick" target="Bishop Lamont" id="268" />
+      <edge source="Demrick" target="Berner (rapper)" id="269" />
+      <edge source="Demrick" target="B-Legit" id="270" />
+      <edge source="Scoop DeVille" target="Kendrick Lamar" id="271" />
+      <edge source="Scoop DeVille" target="Snoop Dogg" id="272" />
+      <edge source="Scoop DeVille" target="Frost (rapper)" id="273" />
+      <edge source="Scoop DeVille" target="Dr. Dre" id="274" />
+      <edge source="Scoop DeVille" target="Nipsey Hussle" id="275" />
+      <edge source="Scoop DeVille" target="Vince Staples" id="276" />
+      <edge source="Scoop DeVille" target="Buddy (rapper)" id="277" />
+      <edge source="Scoop DeVille" target="Too Short" id="278" />
+      <edge source="Scoop DeVille" target="Mistah F.A.B." id="279" />
+      <edge source="Daz Dillinger" target="Kurupt" id="280" />
+      <edge source="Daz Dillinger" target="Dr. Dre" id="281" />
+      <edge source="Daz Dillinger" target="Snoop Dogg" id="282" />
+      <edge source="Daz Dillinger" target="Eazy-E" id="283" />
+      <edge source="Daz Dillinger" target="Tupac Shakur" id="284" />
+      <edge source="Daz Dillinger" target="Nate Dogg" id="285" />
+      <edge source="Daz Dillinger" target="Soopafly" id="286" />
+      <edge source="Daz Dillinger" target="B-Legit" id="287" />
+      <edge source="Nate Dogg" target="Snoop Dogg" id="288" />
+      <edge source="Nate Dogg" target="Warren G" id="289" />
+      <edge source="Nate Dogg" target="Dr. Dre" id="290" />
+      <edge source="Nate Dogg" target="Xzibit" id="291" />
+      <edge source="Nate Dogg" target="Tupac Shakur" id="292" />
+      <edge source="Nate Dogg" target="Kurupt" id="293" />
+      <edge source="Nate Dogg" target="Houston (singer)" id="294" />
+      <edge source="Snoop Dogg" target="Daz Dillinger" id="295" />
+      <edge source="Snoop Dogg" target="Nate Dogg" id="296" />
+      <edge source="Snoop Dogg" target="RBX" id="297" />
+      <edge source="Snoop Dogg" target="Dr. Dre" id="298" />
+      <edge source="Snoop Dogg" target="Warren G" id="299" />
+      <edge source="Snoop Dogg" target="The D.O.C." id="300" />
+      <edge source="Snoop Dogg" target="Kurupt" id="301" />
+      <edge source="Snoop Dogg" target="Tupac Shakur" id="302" />
+      <edge source="Snoop Dogg" target="Xzibit" id="303" />
+      <edge source="Snoop Dogg" target="Coolio" id="304" />
+      <edge source="Snoop Dogg" target="E-40" id="305" />
+      <edge source="Snoop Dogg" target="Too Short" id="306" />
+      <edge source="Snoop Dogg" target="Kendrick Lamar" id="307" />
+      <edge source="Snoop Dogg" target="Ice Cube" id="308" />
+      <edge source="Snoop Dogg" target="The Game (rapper)" id="309" />
+      <edge source="Domino (rapper)" target="Snoop Dogg" id="310" />
+      <edge source="Drakeo the Ruler" target="03 Greedo" id="311" />
+      <edge source="Drakeo the Ruler" target="Skeme" id="312" />
+      <edge source="Drakeo the Ruler" target="YG (rapper)" id="313" />
+      <edge source="Drakeo the Ruler" target="Snoop Dogg" id="314" />
+      <edge source="Drakeo the Ruler" target="Ice Cube" id="315" />
+      <edge source="Dr. Dre" target="Sir Jinx" id="316" />
+      <edge source="Dr. Dre" target="Warren G" id="317" />
+      <edge source="Dr. Dre" target="Snoop Dogg" id="318" />
+      <edge source="Dr. Dre" target="Daz Dillinger" id="319" />
+      <edge source="Dr. Dre" target="Xzibit" id="320" />
+      <edge source="Dr. Dre" target="Kendrick Lamar" id="321" />
+      <edge source="Dr. Dre" target="Tairrie B" id="322" />
+      <edge source="Dr. Dre" target="Ice Cube" id="323" />
+      <edge source="Dr. Dre" target="Eazy-E" id="324" />
+      <edge source="Dr. Dre" target="Ice-T" id="325" />
+      <edge source="Dr. Dre" target="Kurupt" id="326" />
+      <edge source="Dr. Dre" target="RBX" id="327" />
+      <edge source="Dr. Dre" target="Nate Dogg" id="328" />
+      <edge source="Dr. Dre" target="Tupac Shakur" id="329" />
+      <edge source="Dr. Dre" target="King T" id="330" />
+      <edge source="Dr. Dre" target="Kokane" id="331" />
+      <edge source="Dr. Dre" target="The Game (rapper)" id="332" />
+      <edge source="Dr. Dre" target="DJ Khalil" id="333" />
+      <edge source="Dr. Dre" target="Slim the Mobster" id="334" />
+      <edge source="Dr. Dre" target="DJ Quik" id="335" />
+      <edge source="Dr. Dre" target="Bishop Lamont" id="336" />
+      <edge source="Droop-E" target="E-40" id="337" />
+      <edge source="Droop-E" target="B-Legit" id="338" />
+      <edge source="Droop-E" target="Suga-T" id="339" />
+      <edge source="Droop-E" target="Mack 10" id="340" />
+      <edge source="Droop-E" target="Mistah F.A.B." id="341" />
+      <edge source="Droop-E" target="Messy Marv" id="342" />
+      <edge source="Droop-E" target="Mugzi" id="343" />
+      <edge source="Droop-E" target="JT the Bigga Figga" id="344" />
+      <edge source="Droop-E" target="Kendrick Lamar" id="345" />
+      <edge source="Droop-E" target="San Quinn" id="346" />
+      <edge source="Droop-E" target="Keak da Sneak" id="347" />
+      <edge source="Droop-E" target="Suga Free" id="348" />
+      <edge source="Droop-E" target="Ya Boy" id="349" />
+      <edge source="Droop-E" target="Mac Mall" id="350" />
+      <edge source="Droop-E" target="Mac Shawn" id="351" />
+      <edge source="Droop-E" target="Clyde Carson" id="352" />
+      <edge source="Dumbfoundead" target="Psychosiz" id="353" />
+      <edge source="Dumbfoundead" target="Jay Park" id="354" />
+      <edge source="Dumbfoundead" target="Tiger JK" id="355" />
+      <edge source="Dumbfoundead" target="Grieves" id="356" />
+      <edge source="E-40" target="Droop-E" id="357" />
+      <edge source="E-40" target="B-Legit" id="358" />
+      <edge source="E-40" target="Too Short" id="359" />
+      <edge source="E-40" target="Spice 1" id="360" />
+      <edge source="E-40" target="Ant Banks" id="361" />
+      <edge source="E-40" target="Tupac Shakur" id="362" />
+      <edge source="E-40" target="Mac Mall" id="363" />
+      <edge source="E-40" target="The Game (rapper)" id="364" />
+      <edge source="E-40" target="Snoop Dogg" id="365" />
+      <edge source="E-40" target="YG (rapper)" id="366" />
+      <edge source="E-40" target="Iamsu!" id="367" />
+      <edge source="E-40" target="Kendrick Lamar" id="368" />
+      <edge source="E-40" target="Schoolboy Q" id="369" />
+      <edge source="E-40" target="Lecrae" id="370" />
+      <edge source="E-40" target="Blueface" id="371" />
+      <edge source="E-40" target="Suga-T" id="372" />
+      <edge source="Eazy-E" target="The D.O.C." id="373" />
+      <edge source="Eazy-E" target="Kokane" id="374" />
+      <edge source="Eazy-E" target="Ice Cube" id="375" />
+      <edge source="Eazy-E" target="Dr. Dre" id="376" />
+      <edge source="Eazy-E" target="Ice-T" id="377" />
+      <edge source="Eazy-E" target="B.G. Knocc Out" id="378" />
+      <edge source="MC Eiht" target="The Unknown DJ" id="379" />
+      <edge source="MC Eiht" target="Tha Chill" id="380" />
+      <edge source="MC Eiht" target="DJ Quik" id="381" />
+      <edge source="MC Eiht" target="Spice 1" id="382" />
+      <edge source="MC Eiht" target="Brotha Lynch Hung" id="383" />
+      <edge source="MC Eiht" target="Snoop Dogg" id="384" />
+      <edge source="MC Eiht" target="Kam (rapper)" id="385" />
+      <edge source="MC Eiht" target="Young Maylay" id="386" />
+      <edge source="MC Eiht" target="Kendrick Lamar" id="387" />
+      <edge source="MC Eiht" target="Tupac Shakur" id="388" />
+      <edge source="MC Eiht" target="Daz Dillinger" id="389" />
+      <edge source="Evidence (musician)" target="Domo Genesis" id="390" />
+      <edge source="Evidence (musician)" target="The Alchemist (musician)" id="391" />
+      <edge source="Evidence (musician)" target="Jake One" id="392" />
+      <edge source="Evidence (musician)" target="DJ Khalil" id="393" />
+      <edge source="Exile (producer)" target="Fashawn" id="394" />
+      <edge source="Exile (producer)" target="Aloe Blacc" id="395" />
+      <edge source="Exile (producer)" target="Madlib" id="396" />
+      <edge source="Exile (producer)" target="Soopafly" id="397" />
+      <edge source="Exile (producer)" target="Flying Lotus" id="398" />
+      <edge source="Exile (producer)" target="Snoop Dogg" id="399" />
+      <edge source="Fashawn" target="Evidence (musician)" id="400" />
+      <edge source="Fashawn" target="Murs (rapper)" id="401" />
+      <edge source="Fashawn" target="Exile (producer)" id="402" />
+      <edge source="Fashawn" target="Aloe Blacc" id="403" />
+      <edge source="Fashawn" target="Nipsey Hussle" id="404" />
+      <edge source="Fashawn" target="Jay Rock" id="405" />
+      <edge source="Fashawn" target="Kendrick Lamar" id="406" />
+      <edge source="Fashawn" target="The Alchemist (musician)" id="407" />
+      <edge source="Fashawn" target="Dom Kennedy" id="408" />
+      <edge source="Fashawn" target="DJ Khalil" id="409" />
+      <edge source="Fashawn" target="Del the Funky Homosapien" id="410" />
+      <edge source="Fatlip" target="E-40" id="411" />
+      <edge source="Fatlip" target="Phil Da Agony" id="412" />
+      <edge source="Fatlip" target="RBX" id="413" />
+      <edge source="Joey Fatts" target="Vince Staples" id="414" />
+      <edge source="Joey Fatts" target="Snoop Dogg" id="415" />
+      <edge source="Joey Fatts" target="The Game (rapper)" id="416" />
+      <edge source="Kevin Federline" target="Ya Boy" id="417" />
+      <edge source="JT the Bigga Figga" target="Daz Dillinger" id="418" />
+      <edge source="JT the Bigga Figga" target="DJ King Assassin" id="419" />
+      <edge source="JT the Bigga Figga" target="The Game (rapper)" id="420" />
+      <edge source="JT the Bigga Figga" target="Mac Mall" id="421" />
+      <edge source="JT the Bigga Figga" target="Messy Marv" id="422" />
+      <edge source="JT the Bigga Figga" target="San Quinn" id="423" />
+      <edge source="JT the Bigga Figga" target="Dr. Dre" id="424" />
+      <edge source="JT the Bigga Figga" target="Snoop Dogg" id="425" />
+      <edge source="JT the Bigga Figga" target="Xzibit" id="426" />
+      <edge source="JT the Bigga Figga" target="Mac Dre" id="427" />
+      <edge source="JT the Bigga Figga" target="Coolio" id="428" />
+      <edge source="JT the Bigga Figga" target="Luni Coleone" id="429" />
+      <edge source="JT the Bigga Figga" target="Lil Ric" id="430" />
+      <edge source="JT the Bigga Figga" target="Rappin' 4-Tay" id="431" />
+      <edge source="JT the Bigga Figga" target="Yukmouth" id="432" />
+      <edge source="JT the Bigga Figga" target="Sleep Dank" id="433" />
+      <edge source="JT the Bigga Figga" target="E-40" id="434" />
+      <edge source="JT the Bigga Figga" target="Ya Boy" id="435" />
+      <edge source="JT the Bigga Figga" target="Mistah F.A.B." id="436" />
+      <edge source="JT the Bigga Figga" target="Keak da Sneak" id="437" />
+      <edge source="JT the Bigga Figga" target="Mr. Skrillz" id="438" />
+      <edge source="JT the Bigga Figga" target="The Jacka" id="439" />
+      <edge source="Flash Bang Grenada" target="Busdriver" id="440" />
+      <edge source="Flash Bang Grenada" target="Nocando" id="441" />
+      <edge source="Flash Bang Grenada" target="Del the Funky Homosapien" id="442" />
+      <edge source="Flying Lotus" target="Earl Sweatshirt" id="443" />
+      <edge source="Flying Lotus" target="Hodgy" id="444" />
+      <edge source="Flying Lotus" target="Kendrick Lamar" id="445" />
+      <edge source="Flying Lotus" target="Tyler, the Creator" id="446" />
+      <edge source="Flying Lotus" target="Snoop Dogg" id="447" />
+      <edge source="Flying Lotus" target="Busdriver" id="448" />
+      <edge source="Shawn Fonteno" target="Young Maylay" id="449" />
+      <edge source="Foreknown (rapper)" target="JGivens" id="450" />
+      <edge source="Dave Free" target="Kendrick Lamar" id="451" />
+      <edge source="Dave Free" target="Sounwave" id="452" />
+      <edge source="Dave Free" target="Willie B (producer)" id="453" />
+      <edge source="Dave Free" target="Jay Rock" id="454" />
+      <edge source="Dave Free" target="Schoolboy Q" id="455" />
+      <edge source="Dave Free" target="Ab-Soul" id="456" />
+      <edge source="Dave Free" target="Punch (rapper)" id="457" />
+      <edge source="Dave Free" target="Baby Keem" id="458" />
+      <edge source="Mike Free" target="Dom Kennedy" id="459" />
+      <edge source="Mike Free" target="YG (rapper)" id="460" />
+      <edge source="Mike Free" target="O.T. Genasis" id="461" />
+      <edge source="Mike Free" target="E-40" id="462" />
+      <edge source="Mike Free" target="Ty Dolla Sign" id="463" />
+      <edge source="Mike Free" target="Kid Ink" id="464" />
+      <edge source="Mike Free" target="TeeFlii" id="465" />
+      <edge source="Mike Free" target="Snoop Dogg" id="466" />
+      <edge source="Mike Free" target="Cozz" id="467" />
+      <edge source="Mike Free" target="Nipsey Hussle" id="468" />
+      <edge source="Mike Free" target="03 Greedo" id="469" />
+      <edge source="Mike Free" target="Problem (rapper)" id="470" />
+      <edge source="Mike Free" target="Blxst" id="471" />
+      <edge source="DJ Fresh (American DJ)" target="Yukmouth" id="472" />
+      <edge source="DJ Fresh (American DJ)" target="Mitchy Slick" id="473" />
+      <edge source="DJ Fresh (American DJ)" target="E-40" id="474" />
+      <edge source="DJ Fresh (American DJ)" target="Shady Nate" id="475" />
+      <edge source="DJ Fresh (American DJ)" target="Kendrick Lamar" id="476" />
+      <edge source="MC Frontalot" target="MC Lars" id="477" />
+      <edge source="Frost (rapper)" target="Scoop DeVille" id="478" />
+      <edge source="Frost (rapper)" target="Ice-T" id="479" />
+      <edge source="Frost (rapper)" target="Dr. Dre" id="480" />
+      <edge source="Frost (rapper)" target="MC Eiht" id="481" />
+      <edge source="Frost (rapper)" target="Eazy-E" id="482" />
+      <edge source="Frost (rapper)" target="Kokane" id="483" />
+      <edge source="Frost (rapper)" target="Domino (rapper)" id="484" />
+      <edge source="Frost (rapper)" target="Kurupt" id="485" />
+      <edge source="Frost (rapper)" target="King T" id="486" />
+      <edge source="Frost (rapper)" target="Xzibit" id="487" />
+      <edge source="Frost (rapper)" target="B-Legit" id="488" />
+      <edge source="Frost (rapper)" target="Daz Dillinger" id="489" />
+      <edge source="Frost (rapper)" target="Snoop Dogg" id="490" />
+      <edge source="Frost (rapper)" target="B-Real" id="491" />
+      <edge source="Futuristic (rapper)" target="Dizzy Wright" id="492" />
+      <edge source="Futuristic (rapper)" target="Kyle (musician)" id="493" />
+      <edge source="Futuristic (rapper)" target="Hopsin" id="494" />
+      <edge source="The Futuristics" target="The Game (rapper)" id="495" />
+      <edge source="The Futuristics" target="Sage the Gemini" id="496" />
+      <edge source="The Futuristics" target="Kid Ink" id="497" />
+      <edge source="The Futuristics" target="Saweetie" id="498" />
+      <edge source="The Futuristics" target="D Smoke" id="499" />
+      <edge source="The Futuristics" target="The Futuristics" id="500" />
+      <edge source="The Game (rapper)" target="Dr. Dre" id="501" />
+      <edge source="The Game (rapper)" target="JT the Bigga Figga" id="502" />
+      <edge source="The Game (rapper)" target="Sway Calloway" id="503" />
+      <edge source="The Game (rapper)" target="Big Fase 100" id="504" />
+      <edge source="The Game (rapper)" target="Glasses Malone" id="505" />
+      <edge source="The Game (rapper)" target="Eazy-E" id="506" />
+      <edge source="The Game (rapper)" target="Spider Loc" id="507" />
+      <edge source="The Game (rapper)" target="Snoop Dogg" id="508" />
+      <edge source="The Game (rapper)" target="Nipsey Hussle" id="509" />
+      <edge source="The Game (rapper)" target="Too Short" id="510" />
+      <edge source="The Game (rapper)" target="Schoolboy Q" id="511" />
+      <edge source="The Game (rapper)" target="Problem (rapper)" id="512" />
+      <edge source="The Game (rapper)" target="YG (rapper)" id="513" />
+      <edge source="The Game (rapper)" target="Skeme" id="514" />
+      <edge source="The Game (rapper)" target="Soopafly" id="515" />
+      <edge source="The Game (rapper)" target="40 Glocc" id="516" />
+      <edge source="GaTa" target="Schoolboy Q" id="517" />
+      <edge source="O.T. Genasis" target="Tupac Shakur" id="518" />
+      <edge source="O.T. Genasis" target="Snoop Dogg" id="519" />
+      <edge source="O.T. Genasis" target="RJ (rapper)" id="520" />
+      <edge source="Domo Genesis" target="Tyler, the Creator" id="521" />
+      <edge source="Domo Genesis" target="The Alchemist (musician)" id="522" />
+      <edge source="Domo Genesis" target="Earl Sweatshirt" id="523" />
+      <edge source="Domo Genesis" target="Vince Staples" id="524" />
+      <edge source="Domo Genesis" target="Evidence (musician)" id="525" />
+      <edge source="Domo Genesis" target="Buddy (rapper)" id="526" />
+      <edge source="Domo Genesis" target="Cozz" id="527" />
+      <edge source="Gift of Gab (rapper)" target="Del the Funky Homosapien" id="528" />
+      <edge source="Gift of Gab (rapper)" target="Cut Chemist" id="529" />
+      <edge source="Grieves" target="Macklemore" id="530" />
+      <edge source="Grieves" target="MC Lars" id="531" />
+      <edge source="Haiku d'Etat" target="Aceyalone" id="532" />
+      <edge source="Haiku d'Etat" target="Myka 9" id="533" />
+      <edge source="Haiku d'Etat" target="Abstract Rude" id="534" />
+      <edge source="Haiku d'Etat" target="Gift of Gab (rapper)" id="535" />
+      <edge source="Hi-C (rapper)" target="DJ Quik" id="536" />
+      <edge source="Hi-C (rapper)" target="AMG (rapper)" id="537" />
+      <edge source="Hi-C (rapper)" target="E-40" id="538" />
+      <edge source="Hi-C (rapper)" target="Nate Dogg" id="539" />
+      <edge source="Hi-C (rapper)" target="Spider Loc" id="540" />
+      <edge source="Hi-C (rapper)" target="Kam (rapper)" id="541" />
+      <edge source="Hi-C (rapper)" target="Suga Free" id="542" />
+      <edge source="Hi-C (rapper)" target="Snoop Dogg" id="543" />
+      <edge source="Hi-C (rapper)" target="Xzibit" id="544" />
+      <edge source="Hit-Boy" target="Casey Veggies" id="545" />
+      <edge source="Hit-Boy" target="Dom Kennedy" id="546" />
+      <edge source="Hit-Boy" target="Jay Park" id="547" />
+      <edge source="Hit-Boy" target="Nipsey Hussle" id="548" />
+      <edge source="Hit-Boy" target="Snoop Dogg" id="549" />
+      <edge source="Hit-Boy" target="Kendrick Lamar" id="550" />
+      <edge source="Hit-Boy" target="Ty Dolla Sign" id="551" />
+      <edge source="Hit-Boy" target="03 Greedo" id="552" />
+      <edge source="Hit-Boy" target="The Alchemist (musician)" id="553" />
+      <edge source="Hit-Boy" target="Blxst" id="554" />
+      <edge source="Hit-Boy" target="Kyle (musician)" id="555" />
+      <edge source="Hit-Boy" target="Terrace Martin" id="556" />
+      <edge source="Hit-Boy" target="YG (rapper)" id="557" />
+      <edge source="Hit-Boy" target="The Game (rapper)" id="558" />
+      <edge source="Hittman" target="Dr. Dre" id="559" />
+      <edge source="Hittman" target="Kurupt" id="560" />
+      <edge source="Hittman" target="Snoop Dogg" id="561" />
+      <edge source="Hittman" target="Dizzy Wright" id="562" />
+      <edge source="Hodgy" target="Tyler, the Creator" id="563" />
+      <edge source="Hodgy" target="Casey Veggies" id="564" />
+      <edge source="Hodgy" target="Earl Sweatshirt" id="565" />
+      <edge source="Hodgy" target="Domo Genesis" id="566" />
+      <edge source="Hodgy" target="Madlib" id="567" />
+      <edge source="Hopsin" target="Dizzy Wright" id="568" />
+      <edge source="Hopsin" target="Tyler, the Creator" id="569" />
+      <edge source="Hopsin" target="Macklemore" id="570" />
+      <edge source="Hopsin" target="Kid Ink" id="571" />
+      <edge source="Hopsin" target="Schoolboy Q" id="572" />
+      <edge source="Hopsin" target="Dr. Dre" id="573" />
+      <edge source="Hopsin" target="Sway Calloway" id="574" />
+      <edge source="Hopsin" target="Futuristic (rapper)" id="575" />
+      <edge source="Houston (singer)" target="Nate Dogg" id="576" />
+      <edge source="Brotha Lynch Hung" target="MC Eiht" id="577" />
+      <edge source="Brotha Lynch Hung" target="Snoop Dogg" id="578" />
+      <edge source="Brotha Lynch Hung" target="Yukmouth" id="579" />
+      <edge source="Brotha Lynch Hung" target="Ice-T" id="580" />
+      <edge source="Brotha Lynch Hung" target="E-40" id="581" />
+      <edge source="Brotha Lynch Hung" target="Hopsin" id="582" />
+      <edge source="Hurt-M-Badd" target="Tupac Shakur" id="583" />
+      <edge source="Nipsey Hussle" target="Snoop Dogg" id="584" />
+      <edge source="Nipsey Hussle" target="Problem (rapper)" id="585" />
+      <edge source="Nipsey Hussle" target="Terrace Martin" id="586" />
+      <edge source="Nipsey Hussle" target="Jay Rock" id="587" />
+      <edge source="Nipsey Hussle" target="Kokane" id="588" />
+      <edge source="Nipsey Hussle" target="YG (rapper)" id="589" />
+      <edge source="Nipsey Hussle" target="Dom Kennedy" id="590" />
+      <edge source="Nipsey Hussle" target="Yukmouth" id="591" />
+      <edge source="Nipsey Hussle" target="B-Legit" id="592" />
+      <edge source="Nipsey Hussle" target="The Futuristics" id="593" />
+      <edge source="Nipsey Hussle" target="Skeme" id="594" />
+      <edge source="Nipsey Hussle" target="DJ Khalil" id="595" />
+      <edge source="Nipsey Hussle" target="Hit-Boy" id="596" />
+      <edge source="Nipsey Hussle" target="Ice-T" id="597" />
+      <edge source="Nipsey Hussle" target="Kendrick Lamar" id="598" />
+      <edge source="Skhye Hutch" target="Ab-Soul" id="599" />
+      <edge source="Skhye Hutch" target="Kendrick Lamar" id="600" />
+      <edge source="Skhye Hutch" target="Curtiss King" id="601" />
+      <edge source="Skhye Hutch" target="Ash Riser" id="602" />
+      <edge source="Skhye Hutch" target="Punch (rapper)" id="603" />
+      <edge source="Skhye Hutch" target="Sounwave" id="604" />
+      <edge source="Skhye Hutch" target="Jay Rock" id="605" />
+      <edge source="Skhye Hutch" target="Schoolboy Q" id="606" />
+      <edge source="Iame (rapper)" target="Sleep (rapper)" id="607" />
+      <edge source="Iamsu!" target="Problem (rapper)" id="608" />
+      <edge source="Iamsu!" target="LoveRance" id="609" />
+      <edge source="Iamsu!" target="E-40" id="610" />
+      <edge source="Iamsu!" target="Sage the Gemini" id="611" />
+      <edge source="Iamsu!" target="YG (rapper)" id="612" />
+      <edge source="Iamsu!" target="Too Short" id="613" />
+      <edge source="Ice Cube" target="Kam (rapper)" id="614" />
+      <edge source="Ice Cube" target="Eazy-E" id="615" />
+      <edge source="Ice Cube" target="Dr. Dre" id="616" />
+      <edge source="Ice Cube" target="Yo-Yo (rapper)" id="617" />
+      <edge source="Ice Cube" target="Sir Jinx" id="618" />
+      <edge source="Ice Cube" target="Del the Funky Homosapien" id="619" />
+      <edge source="Ice Cube" target="Ice-T" id="620" />
+      <edge source="Ice Cube" target="Tupac Shakur" id="621" />
+      <edge source="Ice Cube" target="Mack 10" id="622" />
+      <edge source="Ice Cube" target="WC (rapper)" id="623" />
+      <edge source="Ice Cube" target="Snoop Dogg" id="624" />
+      <edge source="Ice Cube" target="Nate Dogg" id="625" />
+      <edge source="Ice Cube" target="The Game (rapper)" id="626" />
+      <edge source="Ice Cube" target="DJ Quik" id="627" />
+      <edge source="Ice Cube" target="Daz Dillinger" id="628" />
+      <edge source="Ice Cube" target="E-40" id="629" />
+      <edge source="Ice Cube" target="Too Short" id="630" />
+      <edge source="Ice-T" target="Tupac Shakur" id="631" />
+      <edge source="Ice-T" target="Dr. Dre" id="632" />
+      <edge source="Ice-T" target="Ice Cube" id="633" />
+      <edge source="ILoveMakonnen" target="Lil B" id="634" />
+      <edge source="ILoveMakonnen" target="Ty Dolla Sign" id="635" />
+      <edge source="The Jacka" target="Mac Dre" id="636" />
+      <edge source="The Jacka" target="Yukmouth" id="637" />
+      <edge source="The Jacka" target="E-40" id="638" />
+      <edge source="The Jacka" target="Berner (rapper)" id="639" />
+      <edge source="The Jacka" target="San Quinn" id="640" />
+      <edge source="The Jacka" target="Rydah J. Klyde" id="641" />
+      <edge source="The Jacka" target="Messy Marv" id="642" />
+      <edge source="Jake One" target="Evidence (musician)" id="643" />
+      <edge source="Jake One" target="Dr. Dre" id="644" />
+      <edge source="Jake One" target="Keak da Sneak" id="645" />
+      <edge source="Noa James" target="Murs (rapper)" id="646" />
+      <edge source="Jeff Jericho" target="Tupac Shakur" id="647" />
+      <edge source="Jeff Jericho" target="Snoop Dogg" id="648" />
+      <edge source="JGivens" target="Foreknown (rapper)" id="649" />
+      <edge source="JGivens" target="Lecrae" id="650" />
+      <edge source="JHawk" target="YG (rapper)" id="651" />
+      <edge source="JHawk" target="E-40" id="652" />
+      <edge source="JHawk" target="Mann (rapper)" id="653" />
+      <edge source="JHawk" target="Casey Veggies" id="654" />
+      <edge source="JHawk" target="Keak da Sneak" id="655" />
+      <edge source="JHawk" target="Hodgy" id="656" />
+      <edge source="JHawk" target="Ty Dolla Sign" id="657" />
+      <edge source="JHawk" target="Buddy (rapper)" id="658" />
+      <edge source="JHawk" target="O.T. Genasis" id="659" />
+      <edge source="Sir Jinx" target="Dr. Dre" id="660" />
+      <edge source="Sir Jinx" target="Ice Cube" id="661" />
+      <edge source="Sir Jinx" target="Dazzie Dee" id="662" />
+      <edge source="Sir Jinx" target="Too Short" id="663" />
+      <edge source="Sir Jinx" target="Yo-Yo (rapper)" id="664" />
+      <edge source="Sir Jinx" target="Tone Loc" id="665" />
+      <edge source="Sir Jinx" target="Xzibit" id="666" />
+      <edge source="Sir Jinx" target="Kurupt" id="667" />
+      <edge source="Sir Jinx" target="Ras Kass" id="668" />
+      <edge source="Sir Jinx" target="Del the Funky Homosapien" id="669" />
+      <edge source="Sir Jinx" target="WC (rapper)" id="670" />
+      <edge source="Sir Jinx" target="MC Eiht" id="671" />
+      <edge source="Sir Jinx" target="Ice-T" id="672" />
+      <edge source="Sir Jinx" target="Tupac Shakur" id="673" />
+      <edge source="Sir Jinx" target="King T" id="674" />
+      <edge source="Sir Jinx" target="Soopafly" id="675" />
+      <edge source="Sir Jinx" target="Spider Loc" id="676" />
+      <edge source="Sir Jinx" target="Kokane" id="677" />
+      <edge source="Sir Jinx" target="Krondon" id="678" />
+      <edge source="Hobo Johnson" target="Lil B" id="679" />
+      <edge source="Judge Da Boss" target="YG (rapper)" id="680" />
+      <edge source="Self Jupiter" target="Myka 9" id="681" />
+      <edge source="Self Jupiter" target="Peace (rapper)" id="682" />
+      <edge source="Self Jupiter" target="Aceyalone" id="683" />
+      <edge source="Self Jupiter" target="Murs (rapper)" id="684" />
+      <edge source="Self Jupiter" target="Abstract Rude" id="685" />
+      <edge source="Self Jupiter" target="Oh No (musician)" id="686" />
+      <edge source="K-the-I???" target="Busdriver" id="687" />
+      <edge source="K-the-I???" target="Nocando" id="688" />
+      <edge source="Kam (rapper)" target="Ice Cube" id="689" />
+      <edge source="Kam (rapper)" target="MC Eiht" id="690" />
+      <edge source="Kam (rapper)" target="Snoop Dogg" id="691" />
+      <edge source="Kam (rapper)" target="Paris (rapper)" id="692" />
+      <edge source="Kam (rapper)" target="DJ Quik" id="693" />
+      <edge source="Kam (rapper)" target="Coolio" id="694" />
+      <edge source="Kam (rapper)" target="E-40" id="695" />
+      <edge source="Kam (rapper)" target="Nate Dogg" id="696" />
+      <edge source="Kam (rapper)" target="Warren G" id="697" />
+      <edge source="Kam (rapper)" target="Xzibit" id="698" />
+      <edge source="Kam (rapper)" target="Yukmouth" id="699" />
+      <edge source="Kam (rapper)" target="Afroman" id="700" />
+      <edge source="Kam (rapper)" target="Glasses Malone" id="701" />
+      <edge source="Kam (rapper)" target="Dr. Dre" id="702" />
+      <edge source="Kam (rapper)" target="Yo-Yo (rapper)" id="703" />
+      <edge source="Kam (rapper)" target="Kokane" id="704" />
+      <edge source="Kam (rapper)" target="The Game (rapper)" id="705" />
+      <edge source="Kam (rapper)" target="WC (rapper)" id="706" />
+      <edge source="Kam (rapper)" target="King T" id="707" />
+      <edge source="Kam (rapper)" target="Hi-C (rapper)" id="708" />
+      <edge source="Kam (rapper)" target="CJ Mac" id="709" />
+      <edge source="Kam (rapper)" target="Mack 10" id="710" />
+      <edge source="Kam (rapper)" target="Brotha Lynch Hung" id="711" />
+      <edge source="Kam (rapper)" target="Suga Free" id="712" />
+      <edge source="Kam (rapper)" target="Spider Loc" id="713" />
+      <edge source="Kam (rapper)" target="Kurupt" id="714" />
+      <edge source="Keak da Sneak" target="E-40" id="715" />
+      <edge source="Baby Keem" target="Kendrick Lamar" id="716" />
+      <edge source="Baby Keem" target="Dave Free" id="717" />
+      <edge source="Baby Keem" target="Jay Rock" id="718" />
+      <edge source="Baby Keem" target="Schoolboy Q" id="719" />
+      <edge source="Baby Keem" target="Ty Dolla Sign" id="720" />
+      <edge source="Baby Keem" target="YG (rapper)" id="721" />
+      <edge source="Dom Kennedy" target="Casey Veggies" id="722" />
+      <edge source="Dom Kennedy" target="Hit-Boy" id="723" />
+      <edge source="Dom Kennedy" target="Nipsey Hussle" id="724" />
+      <edge source="Dom Kennedy" target="Skeme" id="725" />
+      <edge source="Dom Kennedy" target="TeeFlii" id="726" />
+      <edge source="Dom Kennedy" target="Tupac Shakur" id="727" />
+      <edge source="Dom Kennedy" target="Krondon" id="728" />
+      <edge source="Dom Kennedy" target="Ty Dolla Sign" id="729" />
+      <edge source="Dom Kennedy" target="DJ Quik" id="730" />
+      <edge source="Dom Kennedy" target="Ice Cube" id="731" />
+      <edge source="Dom Kennedy" target="Kendrick Lamar" id="732" />
+      <edge source="Dom Kennedy" target="Murs (rapper)" id="733" />
+      <edge source="Dom Kennedy" target="Schoolboy Q" id="734" />
+      <edge source="Dom Kennedy" target="YG (rapper)" id="735" />
+      <edge source="Dom Kennedy" target="RJ (rapper)" id="736" />
+      <edge source="Dom Kennedy" target="Suga Free" id="737" />
+      <edge source="Dom Kennedy" target="Fashawn" id="738" />
+      <edge source="Dom Kennedy" target="Glasses Malone" id="739" />
+      <edge source="Dom Kennedy" target="Problem (rapper)" id="740" />
+      <edge source="Dom Kennedy" target="Cozz" id="741" />
+      <edge source="Dom Kennedy" target="The Game (rapper)" id="742" />
+      <edge source="DJ Khalil" target="Aloe Blacc" id="743" />
+      <edge source="DJ Khalil" target="Dr. Dre" id="744" />
+      <edge source="DJ Khalil" target="The Game (rapper)" id="745" />
+      <edge source="Kid Ink" target="Ty Dolla Sign" id="746" />
+      <edge source="Kid Ink" target="Saweetie" id="747" />
+      <edge source="Kid Ink" target="Nipsey Hussle" id="748" />
+      <edge source="DJ King Assassin" target="Ice-T" id="749" />
+      <edge source="DJ King Assassin" target="Kokane" id="750" />
+      <edge source="DJ King Assassin" target="Eazy-E" id="751" />
+      <edge source="DJ King Assassin" target="Big Syke" id="752" />
+      <edge source="King Tech" target="Sway Calloway" id="753" />
+      <edge source="King T" target="Xzibit" id="754" />
+      <edge source="King T" target="Dr. Dre" id="755" />
+      <edge source="King T" target="Ant Banks" id="756" />
+      <edge source="King T" target="Ice Cube" id="757" />
+      <edge source="King T" target="WC (rapper)" id="758" />
+      <edge source="King T" target="Ice-T" id="759" />
+      <edge source="King T" target="Young Maylay" id="760" />
+      <edge source="King T" target="DJ Quik" id="761" />
+      <edge source="King T" target="Kam (rapper)" id="762" />
+      <edge source="King T" target="Snoop Dogg" id="763" />
+      <edge source="King T" target="The Game (rapper)" id="764" />
+      <edge source="Curtiss King" target="Ab-Soul" id="765" />
+      <edge source="Curtiss King" target="Glasses Malone" id="766" />
+      <edge source="Curtiss King" target="Murs (rapper)" id="767" />
+      <edge source="Curtiss King" target="Noa James" id="768" />
+      <edge source="Curtiss King" target="Mack 10" id="769" />
+      <edge source="Curtiss King" target="Kendrick Lamar" id="770" />
+      <edge source="Rydah J. Klyde" target="The Jacka" id="771" />
+      <edge source="Rydah J. Klyde" target="Mac Dre" id="772" />
+      <edge source="Rydah J. Klyde" target="Keak da Sneak" id="773" />
+      <edge source="Rydah J. Klyde" target="Messy Marv" id="774" />
+      <edge source="Rydah J. Klyde" target="Berner (rapper)" id="775" />
+      <edge source="Knightowl" target="Eazy-E" id="776" />
+      <edge source="Knightowl" target="Dr. Dre" id="777" />
+      <edge source="Knightowl" target="Big Syke" id="778" />
+      <edge source="Knightowl" target="Daz Dillinger" id="779" />
+      <edge source="Knightowl" target="Lil Rob" id="780" />
+      <edge source="Knxwledge" target="Kendrick Lamar" id="781" />
+      <edge source="Knxwledge" target="Earl Sweatshirt" id="782" />
+      <edge source="Knxwledge" target="The Alchemist (musician)" id="783" />
+      <edge source="Knxwledge" target="Hodgy" id="784" />
+      <edge source="Knxwledge" target="MC Eiht" id="785" />
+      <edge source="Kokane" target="Snoop Dogg" id="786" />
+      <edge source="Kokane" target="Eazy-E" id="787" />
+      <edge source="Kokane" target="Tupac Shakur" id="788" />
+      <edge source="Kokane" target="Dr. Dre" id="789" />
+      <edge source="Kokane" target="Daz Dillinger" id="790" />
+      <edge source="Kokane" target="E-40" id="791" />
+      <edge source="Kokane" target="Ice Cube" id="792" />
+      <edge source="Kokane" target="Kurupt" id="793" />
+      <edge source="Kokane" target="Nipsey Hussle" id="794" />
+      <edge source="Kokane" target="Brotha Lynch Hung" id="795" />
+      <edge source="Kokane" target="Spice 1" id="796" />
+      <edge source="Kokane" target="Suga Free" id="797" />
+      <edge source="Kokane" target="The Alchemist (musician)" id="798" />
+      <edge source="Kokane" target="Too Short" id="799" />
+      <edge source="Kokane" target="WC (rapper)" id="800" />
+      <edge source="Kokane" target="Ras Kass" id="801" />
+      <edge source="Kokane" target="Ab-Soul" id="802" />
+      <edge source="Kokane" target="The Game (rapper)" id="803" />
+      <edge source="Kossisko" target="Snoop Dogg" id="804" />
+      <edge source="Kossisko" target="Kreayshawn" id="805" />
+      <edge source="Kossisko" target="Joey Fatts" id="806" />
+      <edge source="Kossisko" target="Casey Veggies" id="807" />
+      <edge source="Kreayshawn" target="V-Nasty" id="808" />
+      <edge source="Kreayshawn" target="Lil Debbie" id="809" />
+      <edge source="Kreayshawn" target="Lil B" id="810" />
+      <edge source="Krondon" target="Mitchy Slick" id="811" />
+      <edge source="Krondon" target="Phil Da Agony" id="812" />
+      <edge source="Krondon" target="Xzibit" id="813" />
+      <edge source="Krondon" target="Snoop Dogg" id="814" />
+      <edge source="Krondon" target="Dr. Dre" id="815" />
+      <edge source="Krondon" target="Oh No (musician)" id="816" />
+      <edge source="Kurupt" target="Daz Dillinger" id="817" />
+      <edge source="Kurupt" target="Dr. Dre" id="818" />
+      <edge source="Kurupt" target="Snoop Dogg" id="819" />
+      <edge source="Kurupt" target="Nate Dogg" id="820" />
+      <edge source="Kurupt" target="RBX" id="821" />
+      <edge source="Kurupt" target="Tupac Shakur" id="822" />
+      <edge source="Kurupt" target="Ras Kass" id="823" />
+      <edge source="Kurupt" target="Soopafly" id="824" />
+      <edge source="Kurupt" target="Spider Loc" id="825" />
+      <edge source="Kurupt" target="Crooked I" id="826" />
+      <edge source="Kurupt" target="DJ Quik" id="827" />
+      <edge source="Kurupt" target="MC Eiht" id="828" />
+      <edge source="Kurupt" target="King T" id="829" />
+      <edge source="Kurupt" target="B.G. Knocc Out" id="830" />
+      <edge source="Kurupt" target="Tha Chill" id="831" />
+      <edge source="Kurupt" target="Sir Jinx" id="832" />
+      <edge source="Kurupt" target="Big Dave (rapper)" id="833" />
+      <edge source="Kurupt" target="E-40" id="834" />
+      <edge source="Kurupt" target="Ty Dolla Sign" id="835" />
+      <edge source="Kurupt" target="Kendrick Lamar" id="836" />
+      <edge source="Kurupt" target="Ice Cube" id="837" />
+      <edge source="Kyle (musician)" target="Futuristic (rapper)" id="838" />
+      <edge source="Kyle (musician)" target="Ty Dolla Sign" id="839" />
+      <edge source="Kendrick Lamar" target="Baby Keem" id="840" />
+      <edge source="Kendrick Lamar" target="Dave Free" id="841" />
+      <edge source="Kendrick Lamar" target="Tupac Shakur" id="842" />
+      <edge source="Kendrick Lamar" target="Dr. Dre" id="843" />
+      <edge source="Kendrick Lamar" target="Jay Rock" id="844" />
+      <edge source="Kendrick Lamar" target="Ya Boy" id="845" />
+      <edge source="Kendrick Lamar" target="The Game (rapper)" id="846" />
+      <edge source="Kendrick Lamar" target="Snoop Dogg" id="847" />
+      <edge source="Kendrick Lamar" target="Lil B" id="848" />
+      <edge source="Kendrick Lamar" target="Terrace Martin" id="849" />
+      <edge source="Kendrick Lamar" target="Scoop DeVille" id="850" />
+      <edge source="Kendrick Lamar" target="Macklemore" id="851" />
+      <edge source="Kendrick Lamar" target="Madlib" id="852" />
+      <edge source="Kendrick Lamar" target="Tyler, the Creator" id="853" />
+      <edge source="Kendrick Lamar" target="Eazy-E" id="854" />
+      <edge source="Kendrick Lamar" target="Kurupt" id="855" />
+      <edge source="Bishop Lamont" target="Dr. Dre" id="856" />
+      <edge source="Bishop Lamont" target="Xzibit" id="857" />
+      <edge source="Bishop Lamont" target="The Game (rapper)" id="858" />
+      <edge source="Bishop Lamont" target="Warren G" id="859" />
+      <edge source="MC Lars" target="MC Frontalot" id="860" />
+      <edge source="MC Lars" target="Snoop Dogg" id="861" />
+      <edge source="Lecrae" target="Tupac Shakur" id="862" />
+      <edge source="Lecrae" target="Kendrick Lamar" id="863" />
+      <edge source="Lecrae" target="Ty Dolla Sign" id="864" />
+      <edge source="Lecrae" target="DJ Quik" id="865" />
+      <edge source="Lecrae" target="Snoop Dogg" id="866" />
+      <edge source="Lecrae" target="Tedashii" id="867" />
+      <edge source="Lecrae" target="Sho Baraka" id="868" />
+      <edge source="Shorty (American rapper)" target="Ice Cube" id="869" />
+      <edge source="Shorty (American rapper)" target="Yo-Yo (rapper)" id="870" />
+      <edge source="Shorty (American rapper)" target="Sir Jinx" id="871" />
+      <edge source="Shorty (American rapper)" target="Del the Funky Homosapien" id="872" />
+      <edge source="Shorty (American rapper)" target="Coolio" id="873" />
+      <edge source="Shorty (American rapper)" target="Mack 10" id="874" />
+      <edge source="Shorty (American rapper)" target="WC (rapper)" id="875" />
+      <edge source="Shorty (American rapper)" target="B-Real" id="876" />
+      <edge source="Lil B" target="Mistah F.A.B." id="877" />
+      <edge source="Lil B" target="Tyler, the Creator" id="878" />
+      <edge source="Lil B" target="Schoolboy Q" id="879" />
+      <edge source="Lil B" target="Kreayshawn" id="880" />
+      <edge source="Lil B" target="Mac Dre" id="881" />
+      <edge source="Lil Debbie" target="Kreayshawn" id="882" />
+      <edge source="Lil Debbie" target="V-Nasty" id="883" />
+      <edge source="Lil Italy" target="Snoop Dogg" id="884" />
+      <edge source="Lil Italy" target="E-40" id="885" />
+      <edge source="Lil Ric" target="Luni Coleone" id="886" />
+      <edge source="Lil Ric" target="JT the Bigga Figga" id="887" />
+      <edge source="Lil Ric" target="San Quinn" id="888" />
+      <edge source="Lil Ric" target="Keak da Sneak" id="889" />
+      <edge source="Lil Ric" target="Rydah J. Klyde" id="890" />
+      <edge source="Lil Ric" target="The Jacka" id="891" />
+      <edge source="Lil Rob" target="The Game (rapper)" id="892" />
+      <edge source="Lil Rob" target="E-40" id="893" />
+      <edge source="Locksmith (rapper)" target="E-40" id="894" />
+      <edge source="Locksmith (rapper)" target="Sway Calloway" id="895" />
+      <edge source="Locksmith (rapper)" target="King Tech" id="896" />
+      <edge source="Locksmith (rapper)" target="San Quinn" id="897" />
+      <edge source="Locksmith (rapper)" target="Murs (rapper)" id="898" />
+      <edge source="Locksmith (rapper)" target="Hopsin" id="899" />
+      <edge source="Locksmith (rapper)" target="Futuristic (rapper)" id="900" />
+      <edge source="LoveRance" target="Dom Kennedy" id="901" />
+      <edge source="LoveRance" target="Droop-E" id="902" />
+      <edge source="LoveRance" target="Iamsu!" id="903" />
+      <edge source="LoveRance" target="Problem (rapper)" id="904" />
+      <edge source="Luni Coleone" target="Mac Dre" id="905" />
+      <edge source="Luni Coleone" target="Brotha Lynch Hung" id="906" />
+      <edge source="Luni Coleone" target="Playalitical" id="907" />
+      <edge source="Luni Coleone" target="Spice 1" id="908" />
+      <edge source="Luni Coleone" target="Yukmouth" id="909" />
+      <edge source="Luni Coleone" target="Messy Marv" id="910" />
+      <edge source="Mac Dre" target="E-40" id="911" />
+      <edge source="Mac Dre" target="Mac Mall" id="912" />
+      <edge source="Mac Dre" target="Yukmouth" id="913" />
+      <edge source="Mac Dre" target="Too Short" id="914" />
+      <edge source="CJ Mac" target="Mack 10" id="915" />
+      <edge source="CJ Mac" target="WC (rapper)" id="916" />
+      <edge source="CJ Mac" target="Dr. Dre" id="917" />
+      <edge source="CJ Mac" target="Snoop Dogg" id="918" />
+      <edge source="CJ Mac" target="Yukmouth" id="919" />
+      <edge source="Mack 10" target="WC (rapper)" id="920" />
+      <edge source="Mack 10" target="Ice Cube" id="921" />
+      <edge source="Macklemore" target="Aceyalone" id="922" />
+      <edge source="Madlib" target="Oh No (musician)" id="923" />
+      <edge source="Madlib" target="Dudley Perkins (rapper)" id="924" />
+      <edge source="Madlib" target="Snoop Dogg" id="925" />
+      <edge source="Madlib" target="Kendrick Lamar" id="926" />
+      <edge source="Madlib" target="Dr. Dre" id="927" />
+      <edge source="Mac Mall" target="Mac Dre" id="928" />
+      <edge source="Mac Mall" target="JT the Bigga Figga" id="929" />
+      <edge source="Mac Mall" target="E-40" id="930" />
+      <edge source="Mac Mall" target="Tupac Shakur" id="931" />
+      <edge source="Mac Mall" target="Sway Calloway" id="932" />
+      <edge source="Mac Mall" target="B-Legit" id="933" />
+      <edge source="Glasses Malone" target="Mack 10" id="934" />
+      <edge source="Glasses Malone" target="The Game (rapper)" id="935" />
+      <edge source="Glasses Malone" target="Ty Dolla Sign" id="936" />
+      <edge source="Glasses Malone" target="Kendrick Lamar" id="937" />
+      <edge source="Mann (rapper)" target="Dumbfoundead" id="938" />
+      <edge source="Mann (rapper)" target="Snoop Dogg" id="939" />
+      <edge source="Mann (rapper)" target="Kendrick Lamar" id="940" />
+      <edge source="Mann (rapper)" target="Ty Dolla Sign" id="941" />
+      <edge source="Mayne Mannish" target="E-40" id="942" />
+      <edge source="Mayne Mannish" target="Omega Crosby" id="943" />
+      <edge source="Terrace Martin" target="Kendrick Lamar" id="944" />
+      <edge source="Terrace Martin" target="Murs (rapper)" id="945" />
+      <edge source="Terrace Martin" target="Problem (rapper)" id="946" />
+      <edge source="Terrace Martin" target="Snoop Dogg" id="947" />
+      <edge source="Terrace Martin" target="The Game (rapper)" id="948" />
+      <edge source="Terrace Martin" target="YG (rapper)" id="949" />
+      <edge source="Terrace Martin" target="DJ Quik" id="950" />
+      <edge source="Terrace Martin" target="Kurupt" id="951" />
+      <edge source="Terrace Martin" target="Dr. Dre" id="952" />
+      <edge source="Young Maylay" target="Shawn Fonteno" id="953" />
+      <edge source="Young Maylay" target="B.G. Knocc Out" id="954" />
+      <edge source="Young Maylay" target="Ice Cube" id="955" />
+      <edge source="Young Maylay" target="King T" id="956" />
+      <edge source="Young Maylay" target="MC Eiht" id="957" />
+      <edge source="Young Maylay" target="Rappin' 4-Tay" id="958" />
+      <edge source="Young Maylay" target="WC (rapper)" id="959" />
+      <edge source="Young Maylay" target="Ice-T" id="960" />
+      <edge source="Young Maylay" target="The Game (rapper)" id="961" />
+      <edge source="Young Maylay" target="Frost (rapper)" id="962" />
+      <edge source="Young Maylay" target="Yo-Yo (rapper)" id="963" />
+      <edge source="Trevor McFedries" target="Shwayze" id="964" />
+      <edge source="Mr. J. Medeiros" target="Aceyalone" id="965" />
+      <edge source="Mr. J. Medeiros" target="Braille (musician)" id="966" />
+      <edge source="Eli Meltzer" target="Mac Dre" id="967" />
+      <edge source="Eli Meltzer" target="Brotha Lynch Hung" id="968" />
+      <edge source="Eli Meltzer" target="San Quinn" id="969" />
+      <edge source="Messy Marv" target="San Quinn" id="970" />
+      <edge source="Messy Marv" target="Berner (rapper)" id="971" />
+      <edge source="Messy Marv" target="Yukmouth" id="972" />
+      <edge source="Messy Marv" target="Nipsey Hussle" id="973" />
+      <edge source="Messy Marv" target="Spider Loc" id="974" />
+      <edge source="Messy Marv" target="Mistah F.A.B." id="975" />
+      <edge source="Messy Marv" target="Too Short" id="976" />
+      <edge source="Messy Marv" target="DB Tha General" id="977" />
+      <edge source="Cymphonique Miller" target="Clyde Carson" id="978" />
+      <edge source="Mistah F.A.B." target="DJ Fresh (American DJ)" id="979" />
+      <edge source="Mistah F.A.B." target="Mac Dre" id="980" />
+      <edge source="Mistah F.A.B." target="Too Short" id="981" />
+      <edge source="Mistah F.A.B." target="Clyde Carson" id="982" />
+      <edge source="Mistah F.A.B." target="Snoop Dogg" id="983" />
+      <edge source="Mistah F.A.B." target="E-40" id="984" />
+      <edge source="Mistah F.A.B." target="Droop-E" id="985" />
+      <edge source="Mistah F.A.B." target="G-Stack" id="986" />
+      <edge source="Mix Master Mike" target="Dr. Dre" id="987" />
+      <edge source="Slim the Mobster" target="Dr. Dre" id="988" />
+      <edge source="Slim the Mobster" target="The D.O.C." id="989" />
+      <edge source="Slim the Mobster" target="Xzibit" id="990" />
+      <edge source="Slim the Mobster" target="Snoop Dogg" id="991" />
+      <edge source="Slim the Mobster" target="Kendrick Lamar" id="992" />
+      <edge source="Slim the Mobster" target="Jake One" id="993" />
+      <edge source="Slim the Mobster" target="Jay Rock" id="994" />
+      <edge source="Slim the Mobster" target="Crooked I" id="995" />
+      <edge source="Jonathan Moore (musician)" target="Jake One" id="996" />
+      <edge source="Jonathan Moore (musician)" target="Sir Mix-a-Lot" id="997" />
+      <edge source="Jonathan Moore (musician)" target="Macklemore" id="998" />
+      <edge source="Lil Mosey" target="YG (rapper)" id="999" />
+      <edge source="Lil Mosey" target="Lil Xan" id="1000" />
+      <edge source="Lil Mosey" target="Drakeo the Ruler" id="1001" />
+      <edge source="Mr. Capone-E" target="Kokane" id="1002" />
+      <edge source="Mr. Capone-E" target="Snoop Dogg" id="1003" />
+      <edge source="Mr. Capone-E" target="Nate Dogg" id="1004" />
+      <edge source="Mr. Capone-E" target="Glasses Malone" id="1005" />
+      <edge source="Mr. Capone-E" target="Suga Free" id="1006" />
+      <edge source="Murs (rapper)" target="Terrace Martin" id="1007" />
+      <edge source="Murs (rapper)" target="Droop-E" id="1008" />
+      <edge source="Murs (rapper)" target="Fashawn" id="1009" />
+      <edge source="Myka 9" target="Haiku d'Etat" id="1010" />
+      <edge source="Myka 9" target="Aceyalone" id="1011" />
+      <edge source="Myka 9" target="Abstract Rude" id="1012" />
+      <edge source="Myka 9" target="Busdriver" id="1013" />
+      <edge source="Myka 9" target="Cut Chemist" id="1014" />
+      <edge source="Myka 9" target="Peace (rapper)" id="1015" />
+      <edge source="Myka 9" target="Self Jupiter" id="1016" />
+      <edge source="Myka 9" target="K-the-I???" id="1017" />
+      <edge source="Shady Nate" target="Snoop Dogg" id="1018" />
+      <edge source="Shady Nate" target="Keak da Sneak" id="1019" />
+      <edge source="Shady Nate" target="Yukmouth" id="1020" />
+      <edge source="Shady Nate" target="San Quinn" id="1021" />
+      <edge source="Shady Nate" target="Beeda Weeda" id="1022" />
+      <edge source="Shady Nate" target="Mistah F.A.B." id="1023" />
+      <edge source="Shady Nate" target="Killa Keise" id="1024" />
+      <edge source="Shady Nate" target="G-Stack" id="1025" />
+      <edge source="Shady Nate" target="Dubb 20" id="1026" />
+      <edge source="Shady Nate" target="Mitchy Slick" id="1027" />
+      <edge source="Shady Nate" target="Ya Boy" id="1028" />
+      <edge source="Shady Nate" target="B-Legit" id="1029" />
+      <edge source="Shady Nate" target="The Jacka" id="1030" />
+      <edge source="Shady Nate" target="Rydah J. Klyde" id="1031" />
+      <edge source="Damani Nkosi" target="Dr. Dre" id="1032" />
+      <edge source="Damani Nkosi" target="Snoop Dogg" id="1033" />
+      <edge source="Damani Nkosi" target="Crooked I" id="1034" />
+      <edge source="Damani Nkosi" target="Mitchy Slick" id="1035" />
+      <edge source="Damani Nkosi" target="Daz Dillinger" id="1036" />
+      <edge source="Nobody (producer)" target="Abstract Rude" id="1037" />
+      <edge source="Nobody (producer)" target="Busdriver" id="1038" />
+      <edge source="Nobody (producer)" target="Nocando" id="1039" />
+      <edge source="Nobody (producer)" target="Isaiah Toothtaker" id="1040" />
+      <edge source="Nocando" target="Flash Bang Grenada" id="1041" />
+      <edge source="Nocando" target="Nobody (producer)" id="1042" />
+      <edge source="Nocando" target="Busdriver" id="1043" />
+      <edge source="Nocando" target="Dumbfoundead" id="1044" />
+      <edge source="Nocando" target="K-the-I???" id="1045" />
+      <edge source="Nocando" target="Abstract Rude" id="1046" />
+      <edge source="Nocando" target="Self Jupiter" id="1047" />
+      <edge source="Cool Nutz" target="E-40" id="1048" />
+      <edge source="Cool Nutz" target="Kreayshawn" id="1049" />
+      <edge source="Cool Nutz" target="Luni Coleone" id="1050" />
+      <edge source="Cool Nutz" target="Yukmouth" id="1051" />
+      <edge source="O.Y.G Redrum 781" target="Tupac Shakur" id="1052" />
+      <edge source="O.Y.G Redrum 781" target="Kurupt" id="1053" />
+      <edge source="O.Y.G Redrum 781" target="Snoop Dogg" id="1054" />
+      <edge source="O.Y.G Redrum 781" target="Dr. Dre" id="1055" />
+      <edge source="O.Y.G Redrum 781" target="DJ Quik" id="1056" />
+      <edge source="O.Y.G Redrum 781" target="Ice-T" id="1057" />
+      <edge source="O.Y.G Redrum 781" target="Kam (rapper)" id="1058" />
+      <edge source="Oh No (musician)" target="The Alchemist (musician)" id="1059" />
+      <edge source="Oh No (musician)" target="Madlib" id="1060" />
+      <edge source="Oh No (musician)" target="Murs (rapper)" id="1061" />
+      <edge source="Oh No (musician)" target="Dudley Perkins (rapper)" id="1062" />
+      <edge source="Oh No (musician)" target="Aloe Blacc" id="1063" />
+      <edge source="OhGeesy" target="Drakeo the Ruler" id="1064" />
+      <edge source="OhGeesy" target="YG (rapper)" id="1065" />
+      <edge source="Paris (rapper)" target="Kam (rapper)" id="1066" />
+      <edge source="Paris (rapper)" target="E-40" id="1067" />
+      <edge source="Paris (rapper)" target="WC (rapper)" id="1068" />
+      <edge source="Paris (rapper)" target="Soopafly" id="1069" />
+      <edge source="Paris (rapper)" target="RBX" id="1070" />
+      <edge source="Paris (rapper)" target="The Alchemist (musician)" id="1071" />
+      <edge source="Paris (rapper)" target="Mack 10" id="1072" />
+      <edge source="Paris (rapper)" target="Evidence (musician)" id="1073" />
+      <edge source="Paris (rapper)" target="B-Real" id="1074" />
+      <edge source="Paris (rapper)" target="Snoop Dogg" id="1075" />
+      <edge source="Jay Park" target="Dumbfoundead" id="1076" />
+      <edge source="Jay Park" target="Raz Simone" id="1077" />
+      <edge source="Jay Park" target="Hit-Boy" id="1078" />
+      <edge source="Jay Park" target="Dr. Dre" id="1079" />
+      <edge source="Jay Park" target="Warren G" id="1080" />
+      <edge source="Passion (rapper)" target="Rappin' 4-Tay" id="1081" />
+      <edge source="Passion (rapper)" target="The D.O.C." id="1082" />
+      <edge source="Passion (rapper)" target="Domino (rapper)" id="1083" />
+      <edge source="Passion (rapper)" target="Too Short" id="1084" />
+      <edge source="Passion (rapper)" target="E-40" id="1085" />
+      <edge source="Peace (rapper)" target="Aceyalone" id="1086" />
+      <edge source="Peace (rapper)" target="Myka 9" id="1087" />
+      <edge source="Peace (rapper)" target="Self Jupiter" id="1088" />
+      <edge source="Peace (rapper)" target="Abstract Rude" id="1089" />
+      <edge source="J Peezy" target="Ice Cube" id="1090" />
+      <edge source="J Peezy" target="Too Short" id="1091" />
+      <edge source="J Peezy" target="Mistah F.A.B." id="1092" />
+      <edge source="J Peezy" target="Hopsin" id="1093" />
+      <edge source="Dudley Perkins (rapper)" target="Madlib" id="1094" />
+      <edge source="Dudley Perkins (rapper)" target="Flying Lotus" id="1095" />
+      <edge source="Dudley Perkins (rapper)" target="Oh No (musician)" id="1096" />
+      <edge source="Playalitical" target="E-40" id="1097" />
+      <edge source="Playalitical" target="Rappin' 4-Tay" id="1098" />
+      <edge source="Playalitical" target="Snoop Dogg" id="1099" />
+      <edge source="Playalitical" target="Daz Dillinger" id="1100" />
+      <edge source="Playalitical" target="San Quinn" id="1101" />
+      <edge source="Pooh-Man" target="Too Short" id="1102" />
+      <edge source="Pooh-Man" target="Ant Banks" id="1103" />
+      <edge source="Problem (rapper)" target="E-40" id="1104" />
+      <edge source="Problem (rapper)" target="Terrace Martin" id="1105" />
+      <edge source="Problem (rapper)" target="Snoop Dogg" id="1106" />
+      <edge source="Problem (rapper)" target="Kurupt" id="1107" />
+      <edge source="Problem (rapper)" target="DJ Quik" id="1108" />
+      <edge source="Problem (rapper)" target="YG (rapper)" id="1109" />
+      <edge source="Problem (rapper)" target="Iamsu!" id="1110" />
+      <edge source="Problem (rapper)" target="Kendrick Lamar" id="1111" />
+      <edge source="Problem (rapper)" target="Nipsey Hussle" id="1112" />
+      <edge source="Problem (rapper)" target="Warren G" id="1113" />
+      <edge source="Problem (rapper)" target="Too Short" id="1114" />
+      <edge source="Problem (rapper)" target="The Game (rapper)" id="1115" />
+      <edge source="Problem (rapper)" target="Glasses Malone" id="1116" />
+      <edge source="Problem (rapper)" target="Sage the Gemini" id="1117" />
+      <edge source="Psychosiz" target="Dumbfoundead" id="1118" />
+      <edge source="Psychosiz" target="Nocando" id="1119" />
+      <edge source="Punch (rapper)" target="Terrace Martin" id="1120" />
+      <edge source="Punch (rapper)" target="Kendrick Lamar" id="1121" />
+      <edge source="Punch (rapper)" target="Schoolboy Q" id="1122" />
+      <edge source="Punch (rapper)" target="Willie B (producer)" id="1123" />
+      <edge source="Punch (rapper)" target="Dave Free" id="1124" />
+      <edge source="Punch (rapper)" target="Jay Rock" id="1125" />
+      <edge source="Punch (rapper)" target="Ab-Soul" id="1126" />
+      <edge source="Punch (rapper)" target="Dom Kennedy" id="1127" />
+      <edge source="Punch (rapper)" target="Ash Riser" id="1128" />
+      <edge source="Punch (rapper)" target="Problem (rapper)" id="1129" />
+      <edge source="Schoolboy Q" target="Ab-Soul" id="1130" />
+      <edge source="Schoolboy Q" target="Jay Rock" id="1131" />
+      <edge source="Schoolboy Q" target="Kendrick Lamar" id="1132" />
+      <edge source="Schoolboy Q" target="40 Glocc" id="1133" />
+      <edge source="Schoolboy Q" target="Snoop Dogg" id="1134" />
+      <edge source="Schoolboy Q" target="Macklemore" id="1135" />
+      <edge source="Schoolboy Q" target="Vince Staples" id="1136" />
+      <edge source="Schoolboy Q" target="Kurupt" id="1137" />
+      <edge source="Quazedelic" target="Snoop Dogg" id="1138" />
+      <edge source="Quazedelic" target="Kokane" id="1139" />
+      <edge source="Quazedelic" target="Suga Free" id="1140" />
+      <edge source="Quazedelic" target="Sir Mix-a-Lot" id="1141" />
+      <edge source="Quazedelic" target="B-Legit" id="1142" />
+      <edge source="Quazedelic" target="Daz Dillinger" id="1143" />
+      <edge source="Quazedelic" target="Soopafly" id="1144" />
+      <edge source="Quazedelic" target="Dudley Perkins (rapper)" id="1145" />
+      <edge source="DJ Quik" target="Snoop Dogg" id="1146" />
+      <edge source="DJ Quik" target="Kurupt" id="1147" />
+      <edge source="DJ Quik" target="Eazy-E" id="1148" />
+      <edge source="DJ Quik" target="Kam (rapper)" id="1149" />
+      <edge source="DJ Quik" target="Hi-C (rapper)" id="1150" />
+      <edge source="DJ Quik" target="MC Eiht" id="1151" />
+      <edge source="DJ Quik" target="Suga Free" id="1152" />
+      <edge source="DJ Quik" target="Nate Dogg" id="1153" />
+      <edge source="DJ Quik" target="Xzibit" id="1154" />
+      <edge source="DJ Quik" target="AMG (rapper)" id="1155" />
+      <edge source="DJ Quik" target="Big Syke" id="1156" />
+      <edge source="DJ Quik" target="Dr. Dre" id="1157" />
+      <edge source="DJ Quik" target="Shade Sheist" id="1158" />
+      <edge source="DJ Quik" target="E-40" id="1159" />
+      <edge source="DJ Quik" target="Ice Cube" id="1160" />
+      <edge source="DJ Quik" target="The D.O.C." id="1161" />
+      <edge source="DJ Quik" target="Problem (rapper)" id="1162" />
+      <edge source="DJ Quik" target="The Game (rapper)" id="1163" />
+      <edge source="DJ Quik" target="Daz Dillinger" id="1164" />
+      <edge source="San Quinn" target="Messy Marv" id="1165" />
+      <edge source="San Quinn" target="Ya Boy" id="1166" />
+      <edge source="Rappin' 4-Tay" target="DJ King Assassin" id="1167" />
+      <edge source="Rappin' 4-Tay" target="Too Short" id="1168" />
+      <edge source="Rappin' 4-Tay" target="Mac Dre" id="1169" />
+      <edge source="Rappin' 4-Tay" target="Playalitical" id="1170" />
+      <edge source="Rappin' 4-Tay" target="YG (rapper)" id="1171" />
+      <edge source="Ras Kass" target="Kurupt" id="1172" />
+      <edge source="Ras Kass" target="Xzibit" id="1173" />
+      <edge source="Ras Kass" target="Ice Cube" id="1174" />
+      <edge source="Ras Kass" target="Mack 10" id="1175" />
+      <edge source="Ras Kass" target="Dr. Dre" id="1176" />
+      <edge source="Ras Kass" target="The Game (rapper)" id="1177" />
+      <edge source="Ras Kass" target="Crooked I" id="1178" />
+      <edge source="Ras Kass" target="Mistah F.A.B." id="1179" />
+      <edge source="Ras Kass" target="Krondon" id="1180" />
+      <edge source="Ras Kass" target="Kendrick Lamar" id="1181" />
+      <edge source="Ras Kass" target="Bishop Lamont" id="1182" />
+      <edge source="Ras Kass" target="Ice-T" id="1183" />
+      <edge source="Ras Kass" target="Too Short" id="1184" />
+      <edge source="RBX" target="Snoop Dogg" id="1185" />
+      <edge source="RBX" target="Dr. Dre" id="1186" />
+      <edge source="RBX" target="Soopafly" id="1187" />
+      <edge source="RBX" target="Daz Dillinger" id="1188" />
+      <edge source="RBX" target="Eazy-E" id="1189" />
+      <edge source="RBX" target="B-Real" id="1190" />
+      <edge source="RBX" target="MC Eiht" id="1191" />
+      <edge source="RBX" target="Fatlip" id="1192" />
+      <edge source="RBX" target="Ras Kass" id="1193" />
+      <edge source="RBX" target="Kurupt" id="1194" />
+      <edge source="RBX" target="The D.O.C." id="1195" />
+      <edge source="RBX" target="Lil' C-Style" id="1196" />
+      <edge source="RBX" target="B.G. Knocc Out" id="1197" />
+      <edge source="RBX" target="Warren G" id="1198" />
+      <edge source="RBX" target="Nate Dogg" id="1199" />
+      <edge source="RBX" target="Kokane" id="1200" />
+      <edge source="RBX" target="Suga Free" id="1201" />
+      <edge source="RBX" target="Xzibit" id="1202" />
+      <edge source="RBX" target="Quazedelic" id="1203" />
+      <edge source="RBX" target="Tha Chill" id="1204" />
+      <edge source="RBX" target="Bishop Lamont" id="1205" />
+      <edge source="RBX" target="The Game (rapper)" id="1206" />
+      <edge source="Reason (American rapper)" target="Cozz" id="1207" />
+      <edge source="Reason (American rapper)" target="Kendrick Lamar" id="1208" />
+      <edge source="Reason (American rapper)" target="Ab-Soul" id="1209" />
+      <edge source="Reason (American rapper)" target="Jay Rock" id="1210" />
+      <edge source="Reason (American rapper)" target="Schoolboy Q" id="1211" />
+      <edge source="Reason (American rapper)" target="Vince Staples" id="1212" />
+      <edge source="Red Cloud (rapper)" target="Evidence (musician)" id="1213" />
+      <edge source="Red Cloud (rapper)" target="Murs (rapper)" id="1214" />
+      <edge source="Red Cloud (rapper)" target="Kendrick Lamar" id="1215" />
+      <edge source="Redfoo" target="Sky Blu (rapper)" id="1216" />
+      <edge source="Redfoo" target="Ahmad (rapper)" id="1217" />
+      <edge source="The Real Richie Rich" target="DJ Quik" id="1218" />
+      <edge source="The Real Richie Rich" target="Domino (rapper)" id="1219" />
+      <edge source="The Real Richie Rich" target="Dr. Dre" id="1220" />
+      <edge source="The Real Richie Rich" target="Snoop Dogg" id="1221" />
+      <edge source="The Real Richie Rich" target="Too Short" id="1222" />
+      <edge source="The Real Richie Rich" target="E-40" id="1223" />
+      <edge source="The Real Richie Rich" target="Rappin' 4-Tay" id="1224" />
+      <edge source="Boots Riley" target="Spice 1" id="1225" />
+      <edge source="Boots Riley" target="E-40" id="1226" />
+      <edge source="Boots Riley" target="Tupac Shakur" id="1227" />
+      <edge source="Boots Riley" target="Del the Funky Homosapien" id="1228" />
+      <edge source="Boots Riley" target="Ant Banks" id="1229" />
+      <edge source="Ash Riser" target="Kendrick Lamar" id="1230" />
+      <edge source="Ash Riser" target="Ab-Soul" id="1231" />
+      <edge source="Ash Riser" target="Punch (rapper)" id="1232" />
+      <edge source="RJ (rapper)" target="YG (rapper)" id="1233" />
+      <edge source="RJ (rapper)" target="Vince Staples" id="1234" />
+      <edge source="RJ (rapper)" target="Iamsu!" id="1235" />
+      <edge source="RJ (rapper)" target="Schoolboy Q" id="1236" />
+      <edge source="RJ (rapper)" target="Snoop Dogg" id="1237" />
+      <edge source="RJ (rapper)" target="Ty Dolla Sign" id="1238" />
+      <edge source="RJ (rapper)" target="Casey Veggies" id="1239" />
+      <edge source="RJ (rapper)" target="Skeme" id="1240" />
+      <edge source="RJ (rapper)" target="Nipsey Hussle" id="1241" />
+      <edge source="RJ (rapper)" target="Dom Kennedy" id="1242" />
+      <edge source="RJ (rapper)" target="Drakeo the Ruler" id="1243" />
+      <edge source="RJ (rapper)" target="The Game (rapper)" id="1244" />
+      <edge source="Jay Rock" target="Kendrick Lamar" id="1245" />
+      <edge source="Jay Rock" target="Schoolboy Q" id="1246" />
+      <edge source="Jay Rock" target="Ab-Soul" id="1247" />
+      <edge source="Jay Rock" target="E-40" id="1248" />
+      <edge source="Jay Rock" target="Glasses Malone" id="1249" />
+      <edge source="Sage the Gemini" target="Iamsu!" id="1250" />
+      <edge source="Saweetie" target="Drakeo the Ruler" id="1251" />
+      <edge source="Seagram (rapper)" target="Too Short" id="1252" />
+      <edge source="Seagram (rapper)" target="Spice 1" id="1253" />
+      <edge source="Seagram (rapper)" target="Yukmouth" id="1254" />
+      <edge source="Seagram (rapper)" target="Pooh-Man" id="1255" />
+      <edge source="Seagram (rapper)" target="G-Nut" id="1256" />
+      <edge source="Tupac Shakur" target="Ice Cube" id="1257" />
+      <edge source="Tupac Shakur" target="Ice-T" id="1258" />
+      <edge source="Tupac Shakur" target="Big Syke" id="1259" />
+      <edge source="Tupac Shakur" target="YG (rapper)" id="1260" />
+      <edge source="Tupac Shakur" target="Snoop Dogg" id="1261" />
+      <edge source="Tupac Shakur" target="Dr. Dre" id="1262" />
+      <edge source="Shade Sheist" target="Dr. Dre" id="1263" />
+      <edge source="Shade Sheist" target="Nate Dogg" id="1264" />
+      <edge source="Shade Sheist" target="Kurupt" id="1265" />
+      <edge source="Shade Sheist" target="DJ Quik" id="1266" />
+      <edge source="Shade Sheist" target="Tupac Shakur" id="1267" />
+      <edge source="Shade Sheist" target="The D.O.C." id="1268" />
+      <edge source="Shade Sheist" target="Warren G" id="1269" />
+      <edge source="Mike Shinoda" target="Kendrick Lamar" id="1270" />
+      <edge source="Too Short" target="Tupac Shakur" id="1271" />
+      <edge source="Too Short" target="E-40" id="1272" />
+      <edge source="Too Short" target="Daz Dillinger" id="1273" />
+      <edge source="Too Short" target="Soopafly" id="1274" />
+      <edge source="Too Short" target="B-Legit" id="1275" />
+      <edge source="Too Short" target="Snoop Dogg" id="1276" />
+      <edge source="Too Short" target="Dr. Dre" id="1277" />
+      <edge source="Too Short" target="Dumbfoundead" id="1278" />
+      <edge source="Shorty Mack" target="Snoop Dogg" id="1279" />
+      <edge source="Shorty Mack" target="Nate Dogg" id="1280" />
+      <edge source="Shwayze" target="Snoop Dogg" id="1281" />
+      <edge source="Shwayze" target="Kendrick Lamar" id="1282" />
+      <edge source="Raz Simone" target="Macklemore" id="1283" />
+      <edge source="Skeme" target="The Game (rapper)" id="1284" />
+      <edge source="Skeme" target="Dom Kennedy" id="1285" />
+      <edge source="Skeme" target="Nipsey Hussle" id="1286" />
+      <edge source="Skeme" target="E-40" id="1287" />
+      <edge source="Skeme" target="Casey Veggies" id="1288" />
+      <edge source="Skeme" target="Problem (rapper)" id="1289" />
+      <edge source="Skeme" target="Kendrick Lamar" id="1290" />
+      <edge source="Skeme" target="Ty Dolla Sign" id="1291" />
+      <edge source="Skeme" target="Schoolboy Q" id="1292" />
+      <edge source="Skeme" target="DJ Dahi" id="1293" />
+      <edge source="Skeme" target="Snoop Dogg" id="1294" />
+      <edge source="Skeme" target="YG (rapper)" id="1295" />
+      <edge source="Skeme" target="Snow Tha Product" id="1296" />
+      <edge source="Skeme" target="Lil Debbie" id="1297" />
+      <edge source="Skeme" target="TeeFlii" id="1298" />
+      <edge source="Skeme" target="Jay Rock" id="1299" />
+      <edge source="Skeme" target="Glasses Malone" id="1300" />
+      <edge source="Skinhead Rob" target="Too Short" id="1301" />
+      <edge source="Sky Blu (rapper)" target="Shwayze" id="1302" />
+      <edge source="Sky Blu (rapper)" target="Redfoo" id="1303" />
+      <edge source="Sleep (rapper)" target="Del the Funky Homosapien" id="1304" />
+      <edge source="Sleep Dank" target="Mac Dre" id="1305" />
+      <edge source="Sleep Dank" target="Yukmouth" id="1306" />
+      <edge source="Sleep Dank" target="E-40" id="1307" />
+      <edge source="Sleep Dank" target="Keak da Sneak" id="1308" />
+      <edge source="Sleep Dank" target="Mistah F.A.B." id="1309" />
+      <edge source="Sleep Dank" target="B-Legit" id="1310" />
+      <edge source="Sleep Dank" target="Mac Mall" id="1311" />
+      <edge source="Mitchy Slick" target="The Game (rapper)" id="1312" />
+      <edge source="Mitchy Slick" target="Xzibit" id="1313" />
+      <edge source="Mitchy Slick" target="Messy Marv" id="1314" />
+      <edge source="Mitchy Slick" target="Nipsey Hussle" id="1315" />
+      <edge source="Mitchy Slick" target="Krondon" id="1316" />
+      <edge source="Mitchy Slick" target="Nick Cannon" id="1317" />
+      <edge source="Mitchy Slick" target="MC Eiht" id="1318" />
+      <edge source="Mitchy Slick" target="The Jacka" id="1319" />
+      <edge source="Mitchy Slick" target="Jay Rock" id="1320" />
+      <edge source="Mitchy Slick" target="E-40" id="1321" />
+      <edge source="Mitchy Slick" target="Demrick" id="1322" />
+      <edge source="Slimkid3" target="Fatlip" id="1323" />
+      <edge source="Slip Capone" target="Snoop Dogg" id="1324" />
+      <edge source="Slip Capone" target="Daz Dillinger" id="1325" />
+      <edge source="Slip Capone" target="Kurupt" id="1326" />
+      <edge source="Slip Capone" target="Nate Dogg" id="1327" />
+      <edge source="Slip Capone" target="RBX" id="1328" />
+      <edge source="Slip Capone" target="Schoolboy Q" id="1329" />
+      <edge source="Slow Pain" target="Frost (rapper)" id="1330" />
+      <edge source="Na-Kel Smith" target="Tyler, the Creator" id="1331" />
+      <edge source="Na-Kel Smith" target="Earl Sweatshirt" id="1332" />
+      <edge source="Na-Kel Smith" target="Buddy (rapper)" id="1333" />
+      <edge source="Na-Kel Smith" target="Hodgy" id="1334" />
+      <edge source="Na-Kel Smith" target="Domo Genesis" id="1335" />
+      <edge source="D Smoke" target="The Game (rapper)" id="1336" />
+      <edge source="D Smoke" target="Lecrae" id="1337" />
+      <edge source="Smooth (singer)" target="Tupac Shakur" id="1338" />
+      <edge source="Smooth (singer)" target="Yo-Yo (rapper)" id="1339" />
+      <edge source="Snow Tha Product" target="D Smoke" id="1340" />
+      <edge source="Snow Tha Product" target="Crooked I" id="1341" />
+      <edge source="Snow Tha Product" target="Snoop Dogg" id="1342" />
+      <edge source="Snow Tha Product" target="Ty Dolla Sign" id="1343" />
+      <edge source="Snow Tha Product" target="Dizzy Wright" id="1344" />
+      <edge source="Snow Tha Product" target="Too Short" id="1345" />
+      <edge source="Snow Tha Product" target="Tupac Shakur" id="1346" />
+      <edge source="Snow Tha Product" target="Mac Dre" id="1347" />
+      <edge source="Snow Tha Product" target="Brotha Lynch Hung" id="1348" />
+      <edge source="Soopafly" target="Snoop Dogg" id="1349" />
+      <edge source="Soopafly" target="Tupac Shakur" id="1350" />
+      <edge source="Soopafly" target="Daz Dillinger" id="1351" />
+      <edge source="Soopafly" target="Kurupt" id="1352" />
+      <edge source="Soopafly" target="Nate Dogg" id="1353" />
+      <edge source="Soopafly" target="Warren G" id="1354" />
+      <edge source="Soopafly" target="RBX" id="1355" />
+      <edge source="Soopafly" target="Lil' C-Style" id="1356" />
+      <edge source="Soopafly" target="Xzibit" id="1357" />
+      <edge source="Soopafly" target="Dr. Dre" id="1358" />
+      <edge source="Soopafly" target="Ice Cube" id="1359" />
+      <edge source="Soopafly" target="Too Short" id="1360" />
+      <edge source="Sounwave" target="Kendrick Lamar" id="1361" />
+      <edge source="Sounwave" target="Baby Keem" id="1362" />
+      <edge source="Sounwave" target="Punch (rapper)" id="1363" />
+      <edge source="Sounwave" target="Bishop Lamont" id="1364" />
+      <edge source="Sounwave" target="Dave Free" id="1365" />
+      <edge source="Sounwave" target="Willie B (producer)" id="1366" />
+      <edge source="Sounwave" target="Schoolboy Q" id="1367" />
+      <edge source="Sounwave" target="Ab-Soul" id="1368" />
+      <edge source="Sounwave" target="Jay Rock" id="1369" />
+      <edge source="Sounwave" target="Vince Staples" id="1370" />
+      <edge source="Sounwave" target="Reason (American rapper)" id="1371" />
+      <edge source="Sounwave" target="Ty Dolla Sign" id="1372" />
+      <edge source="Sounwave" target="Lil B" id="1373" />
+      <edge source="Speak!" target="Kreayshawn" id="1374" />
+      <edge source="Speak!" target="Syd (singer)" id="1375" />
+      <edge source="Speak!" target="Vince Staples" id="1376" />
+      <edge source="Spice 1" target="Too Short" id="1377" />
+      <edge source="Spice 1" target="Tupac Shakur" id="1378" />
+      <edge source="Spice 1" target="Kokane" id="1379" />
+      <edge source="Spice 1" target="MC Eiht" id="1380" />
+      <edge source="Spice 1" target="Yukmouth" id="1381" />
+      <edge source="Spider Loc" target="Kurupt" id="1382" />
+      <edge source="Spider Loc" target="Big Syke" id="1383" />
+      <edge source="Spider Loc" target="Yukmouth" id="1384" />
+      <edge source="Spider Loc" target="40 Glocc" id="1385" />
+      <edge source="Spider Loc" target="Brotha Lynch Hung" id="1386" />
+      <edge source="Spider Loc" target="Kam (rapper)" id="1387" />
+      <edge source="Spider Loc" target="Ras Kass" id="1388" />
+      <edge source="Spider Loc" target="Crooked I" id="1389" />
+      <edge source="Spider Loc" target="The Game (rapper)" id="1390" />
+      <edge source="Spider Loc" target="Hot Rod (rapper)" id="1391" />
+      <edge source="Spider Loc" target="Jay Rock" id="1392" />
+      <edge source="Spider Loc" target="Schoolboy Q" id="1393" />
+      <edge source="Spider Loc" target="Glasses Malone" id="1394" />
+      <edge source="Spider Loc" target="Kendrick Lamar" id="1395" />
+      <edge source="Spider Loc" target="Ab-Soul" id="1396" />
+      <edge source="Spider Loc" target="Mistah F.A.B." id="1397" />
+      <edge source="Spider Loc" target="Nipsey Hussle" id="1398" />
+      <edge source="Vince Staples" target="Earl Sweatshirt" id="1399" />
+      <edge source="Vince Staples" target="Snoop Dogg" id="1400" />
+      <edge source="Vince Staples" target="Ab-Soul" id="1401" />
+      <edge source="Vince Staples" target="Schoolboy Q" id="1402" />
+      <edge source="Vince Staples" target="Scoop DeVille" id="1403" />
+      <edge source="Vince Staples" target="Ty Dolla Sign" id="1404" />
+      <edge source="Vince Staples" target="Tyler, the Creator" id="1405" />
+      <edge source="Parlay Starr" target="DJ Quik" id="1406" />
+      <edge source="Parlay Starr" target="Snoop Dogg" id="1407" />
+      <edge source="Parlay Starr" target="Too Short" id="1408" />
+      <edge source="Parlay Starr" target="Yukmouth" id="1409" />
+      <edge source="Rob Stone (rapper)" target="Snoop Dogg" id="1410" />
+      <edge source="Suga Free" target="DJ Quik" id="1411" />
+      <edge source="Suga Free" target="Mac Dre" id="1412" />
+      <edge source="Suga Free" target="Snoop Dogg" id="1413" />
+      <edge source="Suga Free" target="Xzibit" id="1414" />
+      <edge source="Suga Free" target="Kokane" id="1415" />
+      <edge source="Suga Free" target="AMG (rapper)" id="1416" />
+      <edge source="Suga Free" target="Rappin' 4-Tay" id="1417" />
+      <edge source="Suga Free" target="Soopafly" id="1418" />
+      <edge source="Suga Free" target="RBX" id="1419" />
+      <edge source="Suga Free" target="Kurupt" id="1420" />
+      <edge source="Suga Free" target="E-40" id="1421" />
+      <edge source="Suga Free" target="B-Legit" id="1422" />
+      <edge source="Suga Free" target="Nate Dogg" id="1423" />
+      <edge source="Suga Free" target="Hi-C (rapper)" id="1424" />
+      <edge source="Suga Free" target="40 Glocc" id="1425" />
+      <edge source="Suga Free" target="Messy Marv" id="1426" />
+      <edge source="Suga Free" target="Too Short" id="1427" />
+      <edge source="Suga Free" target="Bishop Lamont" id="1428" />
+      <edge source="Suga Free" target="Murs (rapper)" id="1429" />
+      <edge source="Suga Free" target="Daz Dillinger" id="1430" />
+      <edge source="Suga Free" target="Schoolboy Q" id="1431" />
+      <edge source="Suga Free" target="Dom Kennedy" id="1432" />
+      <edge source="Suga-T" target="E-40" id="1433" />
+      <edge source="Suga-T" target="B-Legit" id="1434" />
+      <edge source="Suga-T" target="Spice 1" id="1435" />
+      <edge source="Earl Sweatshirt" target="Tyler, the Creator" id="1436" />
+      <edge source="Earl Sweatshirt" target="Tupac Shakur" id="1437" />
+      <edge source="Earl Sweatshirt" target="Casey Veggies" id="1438" />
+      <edge source="Earl Sweatshirt" target="Domo Genesis" id="1439" />
+      <edge source="Earl Sweatshirt" target="The Alchemist (musician)" id="1440" />
+      <edge source="Earl Sweatshirt" target="Vince Staples" id="1441" />
+      <edge source="Earl Sweatshirt" target="Flying Lotus" id="1442" />
+      <edge source="Earl Sweatshirt" target="Knxwledge" id="1443" />
+      <edge source="Earl Sweatshirt" target="Madlib" id="1444" />
+      <edge source="Syd (singer)" target="Tyler, the Creator" id="1445" />
+      <edge source="Syd (singer)" target="Earl Sweatshirt" id="1446" />
+      <edge source="Syd (singer)" target="Hodgy" id="1447" />
+      <edge source="Syd (singer)" target="Snoop Dogg" id="1448" />
+      <edge source="Syd (singer)" target="Vince Staples" id="1449" />
+      <edge source="Syd (singer)" target="Domo Genesis" id="1450" />
+      <edge source="Big Syke" target="Tupac Shakur" id="1451" />
+      <edge source="Big Syke" target="Kurupt" id="1452" />
+      <edge source="Big Syke" target="Spice 1" id="1453" />
+      <edge source="Big Syke" target="WC (rapper)" id="1454" />
+      <edge source="Big Syke" target="Nate Dogg" id="1455" />
+      <edge source="Big Syke" target="Daz Dillinger" id="1456" />
+      <edge source="Big Syke" target="B-Legit" id="1457" />
+      <edge source="Big Syke" target="Mac Shawn" id="1458" />
+      <edge source="Big Syke" target="Too Short" id="1459" />
+      <edge source="Big Syke" target="Yukmouth" id="1460" />
+      <edge source="Big Syke" target="Mac Mall" id="1461" />
+      <edge source="Big Syke" target="DJ Quik" id="1462" />
+      <edge source="Big Syke" target="Spider Loc" id="1463" />
+      <edge source="Taboo (rapper)" target="Eazy-E" id="1464" />
+      <edge source="Tairrie B" target="Eazy-E" id="1465" />
+      <edge source="Tairrie B" target="Dr. Dre" id="1466" />
+      <edge source="Tairrie B" target="The D.O.C." id="1467" />
+      <edge source="Tairrie B" target="Ice-T" id="1468" />
+      <edge source="Tairrie B" target="Paris (rapper)" id="1469" />
+      <edge source="Tanna Leone" target="Kendrick Lamar" id="1470" />
+      <edge source="Tanna Leone" target="Baby Keem" id="1471" />
+      <edge source="Tanna Leone" target="Dave Free" id="1472" />
+      <edge source="Tanna Leone" target="Tupac Shakur" id="1473" />
+      <edge source="Tedashii" target="Lecrae" id="1474" />
+      <edge source="TeeFlii" target="Problem (rapper)" id="1475" />
+      <edge source="TeeFlii" target="YG (rapper)" id="1476" />
+      <edge source="TeeFlii" target="Nipsey Hussle" id="1477" />
+      <edge source="TeeFlii" target="Skeme" id="1478" />
+      <edge source="TeeFlii" target="Dom Kennedy" id="1479" />
+      <edge source="TeeFlii" target="Casey Veggies" id="1480" />
+      <edge source="TeeFlii" target="Ty Dolla Sign" id="1481" />
+      <edge source="TeeFlii" target="E-40" id="1482" />
+      <edge source="TeeFlii" target="Snoop Dogg" id="1483" />
+      <edge source="TeeFlii" target="Warren G" id="1484" />
+      <edge source="TeeFlii" target="DJ Quik" id="1485" />
+      <edge source="TeeFlii" target="Clyde Carson" id="1486" />
+      <edge source="TeeFlii" target="Berner (rapper)" id="1487" />
+      <edge source="TeeFlii" target="Too Short" id="1488" />
+      <edge source="TeeFlii" target="King Lil G" id="1489" />
+      <edge source="Thurz" target="E-40" id="1490" />
+      <edge source="Thurz" target="Murs (rapper)" id="1491" />
+      <edge source="Thurz" target="Fashawn" id="1492" />
+      <edge source="Tiger JK" target="Dr. Dre" id="1493" />
+      <edge source="Time (rapper)" target="Jake One" id="1494" />
+      <edge source="Ms. Toi" target="Ice Cube" id="1495" />
+      <edge source="Ms. Toi" target="Mack 10" id="1496" />
+      <edge source="Ms. Toi" target="E-40" id="1497" />
+      <edge source="Channel Tres" target="Tyler, the Creator" id="1498" />
+      <edge source="Channel Tres" target="Terrace Martin" id="1499" />
+      <edge source="Ty Dolla Sign" target="YG (rapper)" id="1500" />
+      <edge source="Ty Dolla Sign" target="DJ Dahi" id="1501" />
+      <edge source="Ty Dolla Sign" target="Too Short" id="1502" />
+      <edge source="Ty Dolla Sign" target="Casey Veggies" id="1503" />
+      <edge source="Ty Dolla Sign" target="Jay Rock" id="1504" />
+      <edge source="Ty Dolla Sign" target="E-40" id="1505" />
+      <edge source="Ty Dolla Sign" target="Lecrae" id="1506" />
+      <edge source="Ty Dolla Sign" target="Nate Dogg" id="1507" />
+      <edge source="Ty Dolla Sign" target="Tupac Shakur" id="1508" />
+      <edge source="Ty Dolla Sign" target="Tyler, the Creator" id="1509" />
+      <edge source="Tyler, the Creator" target="Hodgy" id="1510" />
+      <edge source="Tyler, the Creator" target="Casey Veggies" id="1511" />
+      <edge source="Tyler, the Creator" target="Domo Genesis" id="1512" />
+      <edge source="Tyler, the Creator" target="The Alchemist (musician)" id="1513" />
+      <edge source="Tyler, the Creator" target="Earl Sweatshirt" id="1514" />
+      <edge source="Tyler, the Creator" target="Schoolboy Q" id="1515" />
+      <edge source="Tyler, the Creator" target="Kendrick Lamar" id="1516" />
+      <edge source="Tyler, the Creator" target="Sway Calloway" id="1517" />
+      <edge source="Tyler, the Creator" target="Ty Dolla Sign" id="1518" />
+      <edge source="The Unknown DJ" target="Ice-T" id="1519" />
+      <edge source="The Unknown DJ" target="King T" id="1520" />
+      <edge source="The Unknown DJ" target="WC (rapper)" id="1521" />
+      <edge source="The Unknown DJ" target="MC Eiht" id="1522" />
+      <edge source="The Unknown DJ" target="Dr. Dre" id="1523" />
+      <edge source="The Unknown DJ" target="The D.O.C." id="1524" />
+      <edge source="V-Nasty" target="Kreayshawn" id="1525" />
+      <edge source="V-Nasty" target="Lil Debbie" id="1526" />
+      <edge source="V-Nasty" target="Mistah F.A.B." id="1527" />
+      <edge source="V-Nasty" target="Mac Dre" id="1528" />
+      <edge source="Casey Veggies" target="YG (rapper)" id="1529" />
+      <edge source="Casey Veggies" target="Nipsey Hussle" id="1530" />
+      <edge source="Casey Veggies" target="Dom Kennedy" id="1531" />
+      <edge source="Casey Veggies" target="Kendrick Lamar" id="1532" />
+      <edge source="Casey Veggies" target="Tyler, the Creator" id="1533" />
+      <edge source="Casey Veggies" target="Domo Genesis" id="1534" />
+      <edge source="Casey Veggies" target="Vince Staples" id="1535" />
+      <edge source="Casey Veggies" target="Ty Dolla Sign" id="1536" />
+      <edge source="Casey Veggies" target="Hit-Boy" id="1537" />
+      <edge source="Bryce Vine" target="YG (rapper)" id="1538" />
+      <edge source="Warren G" target="Snoop Dogg" id="1539" />
+      <edge source="Warren G" target="Dr. Dre" id="1540" />
+      <edge source="Warren G" target="Nate Dogg" id="1541" />
+      <edge source="Warren G" target="Eazy-E" id="1542" />
+      <edge source="Warren G" target="Ice Cube" id="1543" />
+      <edge source="Warren G" target="Kurupt" id="1544" />
+      <edge source="Warren G" target="Mack 10" id="1545" />
+      <edge source="Warren G" target="RBX" id="1546" />
+      <edge source="Warren G" target="DJ Quik" id="1547" />
+      <edge source="Warren G" target="E-40" id="1548" />
+      <edge source="Warren G" target="Too Short" id="1549" />
+      <edge source="WC (rapper)" target="Ice Cube" id="1550" />
+      <edge source="WC (rapper)" target="Mack 10" id="1551" />
+      <edge source="WC (rapper)" target="Coolio" id="1552" />
+      <edge source="WC (rapper)" target="Sir Jinx" id="1553" />
+      <edge source="WC (rapper)" target="Snoop Dogg" id="1554" />
+      <edge source="WC (rapper)" target="The Game (rapper)" id="1555" />
+      <edge source="WC (rapper)" target="Young Maylay" id="1556" />
+      <edge source="WC (rapper)" target="Daz Dillinger" id="1557" />
+      <edge source="WC (rapper)" target="Kokane" id="1558" />
+      <edge source="WC (rapper)" target="Nate Dogg" id="1559" />
+      <edge source="Willie B (producer)" target="Ab-Soul" id="1560" />
+      <edge source="Willie B (producer)" target="Kendrick Lamar" id="1561" />
+      <edge source="Willie B (producer)" target="Jay Rock" id="1562" />
+      <edge source="Willie B (producer)" target="Punch (rapper)" id="1563" />
+      <edge source="Willie B (producer)" target="Crooked I" id="1564" />
+      <edge source="Willie B (producer)" target="Bishop Lamont" id="1565" />
+      <edge source="Willie B (producer)" target="Glasses Malone" id="1566" />
+      <edge source="Willie B (producer)" target="Kurupt" id="1567" />
+      <edge source="Willie B (producer)" target="Curtiss King" id="1568" />
+      <edge source="Willie B (producer)" target="Sounwave" id="1569" />
+      <edge source="Dizzy Wright" target="Demrick" id="1570" />
+      <edge source="Dizzy Wright" target="Futuristic (rapper)" id="1571" />
+      <edge source="Dizzy Wright" target="Hopsin" id="1572" />
+      <edge source="Dizzy Wright" target="Kid Ink" id="1573" />
+      <edge source="Xzibit" target="Dr. Dre" id="1574" />
+      <edge source="Xzibit" target="Snoop Dogg" id="1575" />
+      <edge source="Xzibit" target="Nate Dogg" id="1576" />
+      <edge source="Xzibit" target="Ice Cube" id="1577" />
+      <edge source="Xzibit" target="Ras Kass" id="1578" />
+      <edge source="Xzibit" target="Kurupt" id="1579" />
+      <edge source="Xzibit" target="The Game (rapper)" id="1580" />
+      <edge source="Xzibit" target="Demrick" id="1581" />
+      <edge source="Xzibit" target="B-Real" id="1582" />
+      <edge source="Ya Boy" target="San Quinn" id="1583" />
+      <edge source="Ya Boy" target="The Game (rapper)" id="1584" />
+      <edge source="Ya Boy" target="Mack 10" id="1585" />
+      <edge source="YG (rapper)" target="Ty Dolla Sign" id="1586" />
+      <edge source="YG (rapper)" target="Nipsey Hussle" id="1587" />
+      <edge source="YG (rapper)" target="Saweetie" id="1588" />
+      <edge source="YG (rapper)" target="Blxst" id="1589" />
+      <edge source="YG (rapper)" target="Kendrick Lamar" id="1590" />
+      <edge source="YGD Tha Top Dogg" target="Soopafly" id="1591" />
+      <edge source="YGD Tha Top Dogg" target="Daz Dillinger" id="1592" />
+      <edge source="YGD Tha Top Dogg" target="Snoop Dogg" id="1593" />
+      <edge source="YGD Tha Top Dogg" target="Nate Dogg" id="1594" />
+      <edge source="Yo-Yo (rapper)" target="Ice Cube" id="1595" />
+      <edge source="Yo-Yo (rapper)" target="Smooth (singer)" id="1596" />
+      <edge source="Yo-Yo (rapper)" target="Tupac Shakur" id="1597" />
+      <edge source="Yukmouth" target="Mac Dre" id="1598" />
+      <edge source="Yukmouth" target="Too Short" id="1599" />
+      <edge source="Yukmouth" target="E-40" id="1600" />
+      <edge source="Yukmouth" target="Crooked I" id="1601" />
+      <edge source="Yukmouth" target="Spice 1" id="1602" />
+      <edge source="Yukmouth" target="Yo-Yo (rapper)" id="1603" />
+      <edge source="Yukmouth" target="Coolio" id="1604" />
+      <edge source="Zealous1" target="MC Frontalot" id="1605" />
+      <edge source="Zealous1" target="MC Lars" id="1606" />
+      <edge source="Asaiah Ziv" target="JGivens" id="1607" />
+    </edges>
+  </graph>
+</gexf>
